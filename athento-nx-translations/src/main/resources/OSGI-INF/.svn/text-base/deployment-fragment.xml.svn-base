@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<fragment version="1">
+
+	<require>org.nuxeo.ecm.platform.lang</require>
+	<require>org.nuxeo.ecm.platform.lang.ext</require>
+	<require>org.nuxeo.ecm.platform.ui</require>
+	<require>org.nuxeo.ecm.webapp.core</require>
+
+
+	<extension target="application#MODULE">
+		<module>
+			<java>${bundle.fileName}</java>
+		</module>
+	</extension>
+
+	<install>
+
+		<!-- Unzip the war template -->
+		<unzip from="${bundle.fileName}" to="/" prefix="web">
+			<include>web/nuxeo.war/**</include>
+		</unzip>
+
+		<delete path="${bundle.fileName}.tmp" />
+		<mkdir path="${bundle.fileName}.tmp" />
+		<unzip from="${bundle.fileName}" to="${bundle.fileName}.tmp" />
+
+
+		<append from="${bundle.fileName}.tmp/OSGI-INF/l10n/messages_es.properties"
+			to="nuxeo.war/WEB-INF/classes/messages_es.properties" addNewLine="true" />
+			
+		<append from="${bundle.fileName}.tmp/OSGI-INF/l10n/messages_es_ES.properties"
+      		to="nuxeo.war/WEB-INF/classes/messages_es_ES.properties" addNewLine="true" />
+      	<append from="${bundle.fileName}.tmp/OSGI-INF/l10n/messages_es_ES.properties"
+      		to="nuxeo.war/WEB-INF/classes/messages_es.properties" addNewLine="true" />
+			
+			
+			
+			
+		<append from="${bundle.fileName}.tmp/OSGI-INF/l10n/messages_en.properties"
+			to="nuxeo.war/WEB-INF/classes/messages_en.properties" addNewLine="true" />
+		<append	from="${bundle.fileName}.tmp/OSGI-INF/l10n/messages_es_AR.properties"
+			to="nuxeo.war/WEB-INF/classes/messages_es_AR.properties" addNewLine="true" />
+		<append	from="${bundle.fileName}.tmp/OSGI-INF/l10n/messages_pt_BR.properties"
+			to="nuxeo.war/WEB-INF/classes/messages_pt_BR.properties" addNewLine="true" />
+		<append from="${bundle.fileName}.tmp/OSGI-INF/l10n/messages_pt.properties"
+			to="nuxeo.war/WEB-INF/classes/messages_pt.properties" addNewLine="true" />
+		<append from="${bundle.fileName}.tmp/OSGI-INF/l10n/messages_fr.properties"
+			to="nuxeo.war/WEB-INF/classes/messages_fr.properties" addNewLine="true" />
+
+		<delete path="${bundle.fileName}.tmp" />
+
+		<!-- create a temp dir -->
+		<!-- be sure no directory with that name exists -->
+		<delete path="nxwebplatform.tmp" />
+		<mkdir path="nxwebplatform.tmp" />
+
+		<unzip from="${bundle.fileName}" to="nxwebplatform.tmp">
+			<include>tiny_mce/**</include>
+		</unzip>
+
+		<copy from="nxwebplatform.tmp/tiny_mce/" to="nuxeo.war/tiny_mce/" />
+		<delete path="nxwebplatform.tmp" />
+
+	</install>
+
+</fragment>

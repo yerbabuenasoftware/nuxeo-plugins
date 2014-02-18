@@ -1,0 +1,5188 @@
+action.admin.center=Nuxeo Centro de administraci\u00f3n Nuxeo
+
+action.admin.exit=Salir del centro de administraci\u00f3n
+
+action.admin.publication.tree=Arbol de Publicaci\u00f3n
+
+action_blogpost_create=Crear entrada
+
+action_blogpost_edit=Modificar
+
+action_cancel=Cancelar
+
+action.classificationRequest=Clasificar
+
+action.classificationRequestTitle=Clasificaci\u00f3n
+
+action.connect.cancel=Ca\u00edda de registro
+
+action.connect.login.check=Identif\u00edquese para conectarse
+
+action.connect.refreshStatus=Actualizar
+
+action.connect.register=Registrar instancia
+
+action.email.document=Email
+
+action.faceted.search.configuration=Aspectos de la b\u00fasqueda
+
+action.forum.content=Foro
+
+action.goToEntityContainer=Entidades
+
+action.groups.subscriptions.tab=Suscripciones
+
+action.liveedit.create.calc=Crear una hoja de c\u00e1lculo de OpenOffice.org con Live Edit
+
+action.liveedit.create.impress=Crear una presentaci\u00f3n de OpenOffice.org con Live Edit
+
+action.liveedit.create.msexcel=Crear un documento Excel con Live Edit
+
+action.liveedit.create.mspowerpoint=Crear un documento Powerpoint con Live Edit
+
+action.liveedit.create.msword=Crear un documento Word con Live Edit
+
+action.liveedit.create.writer=Crear un documento de texto de OpenOffice.org con Live Edit
+
+action.new.document=Nuevo documento
+
+action.new.entity=Crear entidad
+
+action.new.file=Importar un archivo
+
+action.picturebook.addview=A\u00f1adir una vista
+
+action.picture.crop=Recortar
+
+action.picture.dlAll=Descargar todas las im\u00e1genes
+
+action.picture.dlSelected=Descargar im\u00e1genes seleccionadas
+
+action.picture.rotateLeft=Girar a la izquierda
+
+action.picture.rotateRight=Girar a la derecha
+
+action.publish.content=Publicar
+
+action_save=Guardar
+
+action.setup.cancel=Cancelar
+
+action.setup.save=Guardar
+
+action.start.document.routing=Ejecutar la ruta
+
+action.start.related.document.route=Inicio
+
+action.studio.go=Ir a Nuxeo Estudio
+
+action.subscriptions.tab=Mis suscripciones
+
+action.update.subscriptions=Suscribir
+
+action.user.center.exit=Salir del Centro de usuario
+
+action.user.center=Inicio
+
+action.user.subscribe=Suscribir
+
+action.user.unsubscribe=Anular suscripci\u00f3n
+
+action.validate.document.routing.model=Validar el modelo
+
+action.view.admin.mail.folder=Correo electr\u00f3nico
+
+action.view.archive=Archivo
+
+action.view.associatedTasks=Tareas asociadas
+
+action.view.book=Vista
+
+action.view.comments=Comentarios
+
+action.view.content=Contenido
+
+action.view.document.routing.elements=Enviar
+
+action.view.edit=Modificar
+
+action.view.events=Registro de actividades
+
+action.view.files=Archivos
+
+action.view.history=Historial
+
+action.view.local.configuration=Configuraci\u00f3n local
+
+action.view.manage=Administrar
+
+action.view.metadata.common=Metadatos comunes
+
+action.view.metadata=Metadatos
+
+action.view.metadata_picture=Metadatos de imagen
+
+action.view.metadata.specific=Metadatos
+
+action.view.modification=Modificar
+
+action.view.ole=Contenido OLE
+
+action.view.picture=Ver
+
+action.view.relations=Relaciones
+
+action.view.review=Flujo de trabajo
+
+action.view.rights=Permisos de acceso
+
+action.view.settings=Configuraci\u00f3nes de usuario
+
+action.view.slideshow=Presentaci\u00f3n de diapositivas
+
+action.view.summary=Sumario
+
+action.view.tagging=Etiquetas asociadas
+
+action.view.theme=Tema
+
+action.view.thread=Asunto
+
+action.view.trash.content=Papelera
+
+action.view.versions=Versiones guardadas
+
+action_view=Ver
+
+action.view.workflow.tasks=Tareas
+
+action.view.workflow=Flujo de trabajo
+
+action.webcontainer.preview=Vista previa
+
+action_webpage_create=Crear una p\u00e1gina
+
+action_webpage_edit=Editar
+
+action.xml.export=Exportar documento a XML
+
+action.xmltree.export=Exportar el XML de esta carpeta
+
+admcommand.appstore=Centro de actualizaciones
+
+admcommand.audit.nextPage=Siguiente
+
+admcommand.audit.prevPage=Anterior
+
+admcommand.DashboardManagement=Panel de control
+
+admcommand.nuxeoconnect=Conectar con Nuxeo 
+
+admcommand.OAuthOpensocial=OAuth / OpenSocial
+
+admCommand.refresh=Actualizar lista de paquetes
+
+admCommand.studio.refresh=Actualizar
+
+admCommand.studio.update=Actualizar
+
+admcommand.systeminfo=Informaci\u00f3n del sistema
+
+admcommand.useractivity=Actividad
+
+adminsubtab.oauth.consumers=Consumidores de servicios
+
+adminsubtab.oauth.consumersTokens=Fichas otorgadas por Nuxeo a los consumidores de servicios
+
+adminsubtab.oauth.externalGadgets=Aparatos externos de gesti\u00f3n
+
+adminsubtab.oauth.providers=Proveedores de servicios
+
+adminsubtab.oauth.providersTokens=Fichas otorgadas por Nuxeo a los proveedores de servicios
+
+adminsubtab.oauth.serverKey=Claves OAuth del servidor Nuxeo  
+
+adminsubtab.registrationRequired=El registro es necesario para poder acceder al servidor Nuxeo Connect ...
+
+adminsubtab.servernotreachable=No se puede acceder al servidor Nuxeo Connect...
+
+adminsubtab.servernotreachable=Nuxeo servidor de Connect no es accesible ...
+
+adminsubtab.sysinfo.advancedsetup=Configuraci\u00f3n avanzada
+
+adminsubtab.sysinfo.binariesinfo.delete=Eliminar los binarios de la papelera
+
+adminsubtab.sysinfo.binariesinfo.gcduration=Duraci\u00f3n (segundos) de la papelera
+
+adminsubtab.sysinfo.binariesinfo.info=Informaci\u00f3n sobre los activos del repositorio y los binarios de archivos binarios de la papelera.
+
+adminsubtab.sysinfo.binariesinfo.intro=Informaci\u00f3n sobre el repositorio de archivos binarios
+
+adminsubtab.sysinfo.binariesinfo.notdeleted=(No se han eliminado los binarios recogidos en la papelera.)
+
+adminsubtab.sysinfo.binariesinfo.numbinariesgc=N\u00famero de elementos binarios recogidos en la papelera
+
+adminsubtab.sysinfo.binariesinfo.numbinaries=N\u00famero de archivos binarios activos
+
+adminsubtab.sysinfo.binariesinfo.sizebinariesgc=Tama\u00f1o de archivos binarios (en bytes) recogidos de la papelera 
+
+adminsubtab.sysinfo.binariesinfo.sizebinaries=Tama\u00f1o de archivos binarios activos (en bytes)
+
+adminsubtab.sysinfo.binariesinfo.start=Inicio de la recogida de archivos binarios de la papelera
+
+adminsubtab.sysinfo.binariesinfo.wait=Por favor espere, recogiendo archivos binarios de la papelera...
+
+adminsubtab.sysinfo.bundles=Elementos desplegados
+
+adminsubtab.sysinfo.distribDate=Fecha de distribuci\u00f3n
+
+adminsubtab.sysinfo.distribHost=Servidor de aplicaciones
+
+adminsubtab.sysinfo.distribName=Nombre de la distribuci\u00f3n
+
+adminsubtab.sysinfo.distribVersion=Versi\u00f3n de la distribuci\u00f3n
+
+adminsubtab.sysinfo.hostserverinfo=Informaci\u00f3n del servidor host
+
+adminsubtab.sysinfo.noWarns=Ninguno
+
+adminsubtab.sysinfo.nuxeoName=Nombre de la aplicaci\u00f3n Nuxeo 
+
+adminsubtab.sysinfo.nuxeoserverinfo=Informaci\u00f3n sobre la implementaci\u00f3n de la Distribuci\u00f3n Nuxeo
+
+adminsubtab.sysinfo.nuxeoVersion=Versi\u00f3n de la aplicaci\u00f3n Nuxeo
+
+adminsubtab.sysinfo.repostat.activeconnection=N\u00famero de conexiones activas
+
+adminsubtab.sysinfo.repostat.averagereadspeed=Promedio de velocidad de lectura (doc/s)
+
+adminsubtab.sysinfo.repostat.biggestfolder=Carpeta mayor
+
+adminsubtab.sysinfo.repostat.compute.statistics=C\u00e1lculo de estad\u00edsticas
+
+adminsubtab.sysinfo.repostat.computing=Por favor espere, recopilaci\u00f3n de estad\u00edsticas en curso ...
+
+adminsubtab.sysinfo.repostat.generalstatsistics=Estad\u00edsticas generales
+
+adminsubtab.sysinfo.repostat.maxblobsize=Tama\u00f1o m\u00e1ximo de BLOB
+
+adminsubtab.sysinfo.repostat.maxtreedepth=Profundidad m\u00e1xima del \u00e1rbol
+
+adminsubtab.sysinfo.repostat.numberofblobs=N\u00famero de BLOBs
+
+adminsubtab.sysinfo.repostat.numberofdocuments=N\u00famero de documentos
+
+adminsubtab.sysinfo.repostat.numberofversions=N\u00famero de versiones
+
+adminsubtab.sysinfo.repostat.openconnection.1=Usted tiene actualmente
+
+adminsubtab.sysinfo.repostat.openconnection.2=conexiones abiertas en el repositorio
+
+adminsubtab.sysinfo.repostat.perdocumenttypes=Por tipos de documento
+
+adminsubtab.sysinfo.repostat.repositoryinfo.2=Su instancia de Nuxeo est\u00e1 conectado con el siguiente repositorio
+
+adminsubtab.sysinfo.repostat.repositoryinfo=Informaci\u00f3n sobre el repositorio
+
+adminsubtab.sysinfo.repostat.totalsizeofblobs=Tama\u00f1o total de BLOBs
+
+adminsubtab.sysinfo.setup=Instalaci\u00f3n
+
+adminsubtab.sysinfo.userinfo.category=Categor\u00eda
+
+adminsubtab.sysinfo.userinfo.page=P\u00e1gina
+
+adminsubtab.sysinfo.userinfo.timerange=Intervalo de tiempo
+
+adminsubtab.sysinfo.userinfo.title=Informaci\u00f3n sobre la actividad de los usuarios
+
+adminsubtab.sysinfo.warnings=Advertencias en el arranque
+
+adminsubtab.usersActivity.charts.eventMonitoring=Actividades nuevas en el rep\u00f3sito
+
+adminsubtab.usersActivity.charts.httpMonitoring=actividad HTTP 
+
+adminsubtab.usersActivity.charts.title=gr\u00e1ficos de actividad
+
+adminsubtab.usersActivity.events.title=Eventos de registro de auditor\u00eda
+
+adminsubtab.usersActivity.requests.total=N\u00famero total de peticiones HTTP
+
+adminsubtab.usersActivity.userSessions.timerange=Lista de sesiones activas desde la \u00faltima actividad
+
+adminsubtab.usersActivity.userSessions.title=Sesiones HTTP de usuario 
+
+adminsubtab.usersActivity.userSessions.total=N\u00famero total de sesiones HTTP activas
+
+afterRelationCreation=Relaci\u00f3n creada
+
+afterRelationModification=Relaci\u00f3n modificada
+
+afterRelationRemoval=Relaci\u00f3n borrada
+
+annotationCreated=Anotaci\u00f3n creadA
+
+annotationDeleted=Anotaci\u00f3n eliminada
+
+annotationUpdated=Anotaci\u00f3n actualizada
+
+approve=Aprobado
+
+approved=Aprobado
+
+approve_MAJOR=Aprobado (versi\u00f3n principal)
+
+approve_MINOR=Aprobado (versi\u00f3n menor)
+
+audit.copied_from=Copiado desde
+
+audit.duplicated_to=Copiado a
+
+audit.moved_from=Movido desde
+
+backToProject=Proyecto
+
+base.navigation.coverage=Cobertura
+
+base.navigation.subjects=Temas
+
+Blog.description=Descripci\u00f3n del blog
+
+BlogPost.description=Descripci\u00f3n blogpost
+
+cancel=Cancelar
+
+can_not_delete_proxies=Los documentos no pueden ser borrados, pero s\u00ed retirados.
+
+ClassificationDone=Clasificaci\u00f3n
+
+ClassificationFolder=Clasificaci\u00f3n de carpeta
+
+ClassificationRoot=Clasificaci\u00f3n de la ra\u00edz
+
+Collaborative=Documentos colaborativos
+
+command.add=A\u00f1adir
+
+command.add.comments=A\u00f1adir comentario
+
+command.add.files=A\u00f1adir archivos
+
+command.addNewAttachedFile=A\u00f1adir archivo adjunto
+
+command.add.routeelement.after=A\u00f1adir despu\u00e9s
+
+command.add.routeelement.before=A\u00f1adir antes
+
+command.add.routeelement.firstStep=A\u00f1adir primer paso
+
+command.add.routeelement.in=A\u00f1adir en
+
+command.advancedSearch=B\u00fasqueda avanzada
+
+command.advancedsearch.browse=Buscar
+
+command.back=Volver
+
+command.browse=Examinar
+
+command.cancel=Cancelar
+
+command.changeDashboardSelectedDomain=Cambiar
+
+command.changeLocale=Cambiar
+
+command.change.password=Cambiar contrase\u00f1a
+
+command.changeProperties=Cambiar propiedades
+
+command.check.mail.connection=Revisar correo electr\u00f3nico
+
+command.clearSearch=Limpiar b\u00fasqueda
+
+command.clear.vocabulary=Limpiar vocabulario
+
+command.clipboard.addworklist=A\u00f1adir al portapapeles
+
+command.clipboard.copy=Copiar
+
+command.clipboard.delAll=Borrar todos
+
+command.clipboard.moveAll=Mover todos
+
+command.clipboard.pasteAll=Pegar todos
+
+command.clipboard.paste=Pegar
+
+command.clipboard.publish=Publicar aqu\u00ed
+
+command.clipboard.xmlZipExport=Exportar en formato XML
+
+command.clipboard.zipExport=Exportar en formato ZIP
+
+command.comments.reply=Responder
+
+command.continue=Continuar
+
+command.createAndGoBackToSmartSearch=Crear y volver a b\u00fasqueda avanzada
+
+command.createClassificationFolder=Crear una clasificaci\u00f3n de carpeta nueva 
+
+command.createClassificationRoot=Crear una ra\u00edz de clasificaci\u00f3n nueva
+
+command.create=Crear
+
+command.create.domain=Crear dominio nuevo
+
+command.createGroup=Crear un nuevo grupo
+
+command.create.mail.folder=Crear carpeta de correo electr\u00f3nico
+
+command.create.section=Crear nueva secci\u00f3n
+
+command.create.space=Crear nuevo espacio
+
+command.create.thread=Crear nuevo hilo de discusi\u00f3n
+
+command.createUser=Crear nuevo usuario
+
+command.create.workspace=Crear un nuevo espacio de trabajo
+
+command.create.workspace.wizard=Iniciar asistente de creaci\u00f3n de espacio de trabajo
+
+command.delete=Eliminar
+
+command.deleteDocs.help=Borra los documentos seleccionados permanentemente
+
+command.deleteDocs=Eliminar permanentemente
+
+command.deleteDomain=Eliminar dominio
+
+command.deleteFolder=Eliminar carpeta
+
+command.delete.mail.folder=Eliminar carpeta de correo electr\u00f3nico
+
+command.deleteWorkspace=Eliminar espacio de trabajo
+
+command.directoryBack=Volver a la lista
+
+command.document.publish=Publicar
+
+command.document.unpublish=Despublicar
+
+command.download=Descargar
+
+command.edit=Modificar
+
+command.editSmartSearch=Edici\u00f3n b\u00fasqueda avanzada
+
+command.email.send=Enviar
+
+command.empty=Vaciar entradas
+
+command.entity.addSameAs=Agregar enlace a la entidad remota
+
+command.exp_admin=Exportar
+
+command.faceted.search.clear=Borrar
+
+command.faceted.search.go=Ir a \u00bb
+
+command.goHome=Inicio
+
+command.hide.create.relation=Ocultar formulario
+
+command.imageUpload.send=Enviar
+
+command.import_admin=Importar
+
+command.import_export=Importar
+
+command.import=Importar
+
+command.lock=Bloquear
+
+command.login=Acceder
+
+command.logout=Salir
+
+command.manageMembers=Usuarios y grupos
+
+command.manageThemes=Temas
+
+command.mass_edition.addworklist=Editar documentos
+
+command.navigation.fastforward=avance r\u00e1pido
+
+command.navigation.next=Siguiente
+
+command.navigation.previous=Anterior
+
+command.navigation.rewind=Rebobinar
+
+command.next=Siguiente
+
+command.notifications.register=Registrar
+
+command.ok=OK
+
+command.option.liveedit.preeditaction.lock=Bloquear documento
+
+command.option.liveedit.preeditaction.unlock=Desbloquear documento
+
+command.order.movedown=Bajar
+
+command.order.movetobottom=Mover al final
+
+command.order.movetotop=Mover al principio
+
+command.order.moveup=Subir
+
+command.preview.file=Vista previa
+
+command.refresh=Actualizar
+
+command.reject=Rechazar
+
+command.removeArchivedVersion=Borrar
+
+command.rename=Renombrar
+
+command.reset.category=Reiniciar
+
+command.restore=Restaurar
+
+command.revokeAccess=Anular acceso
+
+command.saveAndCreate=Guardar y crear
+
+command.save_as_new_version=Guardar como una nueva versi\u00f3n
+
+command.save=Guardar
+
+command.saveSmartSearch=Guardar b\u00fasqueda
+
+command.search.add_field=A\u00f1adir campo
+
+command.search.reindex=Reindexar
+
+command.search=Buscar
+
+command.security.addPerm=A\u00f1adir permisos
+
+command.security.delPerm=Eliminar permiso(s)
+
+command.security.update=Actualizaci\u00f3n de seguridad
+
+command.selection.addAll=Seleccionar todo
+
+command.selection.add=Seleccionar
+
+command.selection.moveDown=Bajar
+
+command.selection.moveToBottom=Mover al final
+
+command.selection.moveToTop=Mover al principio
+
+command.selection.moveUp=Subir
+
+command.selection.removeAll=Deseleccionar todo
+
+command.selection.remove=Eliminar selecci\u00f3n
+
+command.selection.resetSelectedColumns=Eliminar selecci\u00f3n de columna
+
+command.show.create.relation=A\u00f1adir relaci\u00f3n
+
+command.smartSearch=B\u00fasqueda Avanzada
+
+command.sync_admin=Sincronizar
+
+command.syncDocs=Sincronizar documentos
+
+command.syncRelations=Sincronizar relaciones
+
+command.syncVocabularies=Sincronizar vocabularios
+
+command.tag.add.new.tag=A\u00f1adir etiquetas
+
+command.trashDocs=Enviar a la papelera
+
+command.trashDocs.help=Mover los documentos seleccionados a la papelera
+
+command.undeleteDocs.help=Recuperar los documentos seleccionados
+
+command.undeleteDocs=Recuperar documentos
+
+command.unlock=Desbloquear
+
+command.update.mail.folder=Modificar carpeta de correo electr\u00f3nico
+
+command.upload=Subir
+
+command.user_dashboard=Panel
+
+command.user.personal.workspace=Espacio de trabajo personal
+
+command.userrequest.accept=Aceptar
+
+command.userrequest.reject=Rechazar
+
+command.user.return.to.repository=Volver al repositorio
+
+command.usersettings=Ajustes de usuario
+
+command.validate=Validar
+
+command.viewArchivedVersion=Ver versi\u00f3n archivada
+
+command.view=Ver
+
+Comment.description=A\u00f1adir comentario
+
+company=Empresa
+
+connect.local.repository.desc=La siguiente lista contiene todos los paquetes que se han instalado (o descargado) a trav\u00e9s del Centro de Actualizaci\u00f3nes.
+
+connect.message.authenticate=Autentif\u00edquese con su cuenta de Nuxeo Connect
+
+connect.message.discoverconnect=Descubra de qu\u00e9 va Nuxeo Connect.
+
+connect.message.newaccount=Crea tu cuenta Nuxeo Connect
+
+connect.message.notregistred=La instancia no est\u00e1 registrada.
+
+connect.message.registred.problem=Su registro de Nuxeo Connect no puede ser validado.
+
+connect.message.registred=Su instancia de Nuxeo est\u00e1 registrada
+
+content=Contenido
+
+contentview.addSort.help=Haga clic en la flecha para a\u00f1adir nuevos criterios de clasificaci\u00f3n. Haga clic de nuevo para cambiar la direcci\u00f3n de clasificaci\u00f3n.
+
+contentview.setSort.help=Haga clic en el t\u00edtulo de la columna para una nueva clasificaci\u00f3n. Haga clic de nuevo para cambiar la direcci\u00f3n de clasificaci\u00f3n.
+
+contentview.sort.help=Haga clic en el t\u00edtulo de la columna para una nueva clasificaci\u00f3n y haga clic en las flechas para a\u00f1adir nuevos criterios de clasificaci\u00f3n. Haga clic de nuevo para cambiar la direcci\u00f3n de clasificaci\u00f3n.
+
+ContextualLink.description=Crear v\u00ednculos que se mostrar\u00e1n en una p\u00e1gina web
+
+dashboard.opensocial.add=A\u00f1adir
+
+dashboard.opensocial.addAGadget=A\u00f1adir widget
+
+dashboard.opensocial.changeLayout=Cambiar disposici\u00f3n
+
+dashboard.opensocial.close=Cerrar
+
+default=Predeterminado
+
+Default_Domain=Dominio predetermindado
+
+DefaultSettings=Configuraci\u00f3n predeterminada
+
+deleted=Borrado
+
+delete=Eliminado
+
+desc.dnd.attach=Adjuntar archivo al documento actual
+
+desc.dnd.attachfiles=Adjuntar archivos al documento actual
+
+desc.gadget.bbcnews=Gadget de noticias de BBC 
+
+desc.gadget.bookmarks=Le permite almacenar y administrar sus marcadores.
+
+desc.gadget.flash=Mostrar un archivo Flash
+
+desc.gadget.hello=Hola
+
+desc.gadget.mappy=Mapeo
+
+desc.gadget.meteo=Meteo
+
+desc.gadget.note=Nota
+
+desc.gadget.photo=Mostrar una foto
+
+desc.gadget.richtext=Editor de textos
+
+desc.gadget.tasks=Tareas asignadas
+
+desc.gadget.todolist=Tareas pendientes
+
+desc.gadget.userdocuments=Mostrar los \u00faltimos documentos modificados
+
+desc.gadget.usersites=Mis sitios web
+
+desc.gadget.userworkspaces=Mis espacios de trabajo
+
+desc.gadget.video=Mostrar un v\u00eddeo
+
+desc.gadget.waitingfor=Mostrar tareas en espera
+
+desc.import.and.add.to.clipboard=Importar al espacio de trabajo personal y a\u00f1adir al portapapeles
+
+desc.import.and.add.to.worklist=Importar al espacio de trabajo personal y a\u00f1adir a la lista de trabajo
+
+description=Descripci\u00f3n
+
+desc.smart.import.file=Deje que Nuxeo seleccione el tipo de documento para cada archivo
+
+desc.smart.import.with.md=Deje que Nuxeo seleccione el tipo de documento para cada archivo y que inicialice los metadatos
+
+documentCheckedIn=Versi\u00f3n creada
+
+documentCreatedByCopy=Creado desde una copia
+
+documentCreated=Creado
+
+documentDuplicated=Duplicado
+
+document_listing_compact_2_columns=Vista compacta
+
+document_listing_icon_2_columns=Vista en iconos
+
+document_listing=Vista como lista
+
+document.lock=Documento bloqueado
+
+documentLocked=Bloquear documento
+
+document.locker=Archivador
+
+document.lock.failed=\u00a1No se ha podido bloquear el documento! Probablemente otro usuario con los mismos permisos ha bloqueado el documento o se ha iniciado un flujo de trabajo.
+
+document.lock.time=Tiempo de Bloqueo
+
+document_modified={0} modificado
+
+documentModified=Modificaci\u00f3n
+
+document_moved={0} movido
+
+documentMoved=Movido
+
+document_no_deleted_state=El ciclo de vida del documento no tiene la opci\u00f3n 'eliminado'. La operaci\u00f3n no es posible para:
+
+documentPublicationApproved=Publicaci\u00f3n aprobada
+
+documentPublicationRejected=Publicaci\u00f3n rechazada
+
+document_published={0} publicado
+
+documentPublished=Publicaci\u00f3n
+
+document_publishing=En espera para publicaci\u00f3n
+
+document_rejected={0} rechazado
+
+document_review_approbation=Revisi\u00f3n en serie (importa el orden)
+
+document_review_parallel=Revisi\u00f3n en paralelo (no importa el orden)
+
+document_review_serial=Proceso en serie
+
+DocumentRouteInstancesRoot=Ruta de las instancias
+
+DocumentRoute=Ruta
+
+document_saved={0} guardado
+
+documentSecurityUpdated=Permisos modificados
+
+documentSubmitedForPublication=Enviado para publicaci\u00f3n
+
+document_submitted_for_publication={0} enviado para publicaci\u00f3n
+
+document.unlock=Documento desbloqueado
+
+document.unlock.done=El Documento estaba desbloqueado
+
+documentUnlocked=Desbloquear documento
+
+document.unlock.not.permitted=El desbloqueo del Documento no est\u00e1 permitido
+
+document_unpublished={0} despublicado
+
+documentUnPublished=Despublicar
+
+documentWaitingPublication=Publicaci\u00f3n en espera
+
+Domain.description=
+
+Domain=Dominio
+
+email=Correo electr\u00f3nico
+
+Entities=Entidades
+
+error.addingRelation=Error al a\u00f1adir una nueva relaci\u00f3n
+
+error.document.locked.for.publish=El documento est\u00e1 bloqueado
+
+Error.Document.Not.Found=El documento no existe
+
+error.fetchingDocuments=Error al recuperar el documento
+
+error.fetchingEntities=Error al recuperar las entidades
+
+error.fetchingLocalLinkedEntities=Error al recuperar las entidades locales
+
+error.fetchingRemoteEntities=Error al recuperar las entidades a distancia
+
+error.groupManager.groupAlreadyExists=Este grupo ya existe.
+
+error.inputFile.authorizedExtensions=Extensiones autorizadas\: {0}
+
+error.inputFile.choiceRequired=Selecci\u00f3n requerida
+
+error.inputFile.invalidChoice=Selecci\u00f3n inv\u00e1lida
+
+error.inputFile.invalidFile=Archivo no v\u00e1lido
+
+error.inputFile.maxSize=El tama\u00f1o del fichero es mayor que {0}
+
+error.inputFile.unauthorizedExtensions=Extensiones no autorizadas\: {0}
+
+Error.Insuffisant.Rights=No tiene los permisos necesarios para hacer esto
+
+error.linkingToRemoteEntity=Error al vincular a la entidad remota
+
+error.notifManager.noUserSelected=No ha seleccionado ning\u00fan usuario o grupo
+
+error.relation.invalid.object.type=Tipo de objeto de la relaci\u00f3n no v\u00e1lido.
+
+error.relation.required.object.document=Relaci\u00f3n de documentos obligatoria.
+
+error.relation.required.object.text=Relaci\u00f3n del texto del objeto obligatoria.
+
+error.relation.required.object.type=Relaci\u00f3n del objeto obligatoria.
+
+error.relation.required.object.uri=Relaci\u00f3n URI del objeto obligatoria.
+
+error.removingRelation=Error al eliminar una relaci\u00f3n
+
+error.required=Valor requerido.
+
+error.rightsManager.noUsersSelected=Debe seleccionar al menos un usuario o grupo.
+
+error.shibboleth.groupManager.wrongEl=Expresi\u00f3n de lenguaje incorrecta
+
+error.smart.query.invalidQuery=Consulta no v\u00e1lida
+
+error.sortInfoValidator.conflictingCriteria=Hay m\u00e1s de un criterio basado en ''{0}''
+
+error.sortInfoValidator.emptyCriterion=Criterio de clasificaci\u00f3n vac\u00edo
+
+error.sortInfoValidator.invalidValue=Valor no v\u00e1lido
+
+error.syncingWithRemoteEntity=Error al sincronizar con la entidad remota
+
+Error.Unknown=Error desconocido
+
+error.unlinkingRemoteEntity=Error al desvincular a la entidad remota
+
+error.userManager.passwordMismatch=Las contrase\u00f1as no coinciden.
+
+error.userManager.userAlreadyExists=Este usuario ya existe.
+
+error.versioning.none_selected=Por favor seleccione una opci\u00f3n de incremento de versi\u00f3n
+
+eventDocumentCategory=Documento
+
+eventWorkflowCategory=Flujo de trabajo
+
+FacetedSearchDefault.description=Aspectos de la b\u00fasqueda
+
+FacetedSearchDefault=Aspectos de la b\u00fasqueda
+
+false=No
+
+feedback.casemanagement.document.already.last.step.in.container=\u00faltimo nivel en el contenedor
+
+feedback.casemanagement.document.route.already.first.step.in.container=Primer nivel en el contenedor
+
+feedback.casemanagement.document.route.already.locked=Esta ruta ya est\u00e1 bloqueada!
+
+feedback.casemanagement.document.route.cant.move.step.after.no.modifiable.step=No se puede mover este nivel antes de un nivel no modificable
+
+feedback.casemanagement.document.route.cant.move.steps.in.parallel.container=No se pueden mover niveles en un contenedor en paralelo
+
+feedback.casemanagement.document.route.not.locked=\u00a1Ruta desbloqueada!
+
+feedback.casemanagement.document.route.no.valid.route=No hay una ruta v\u00e1lida seleccionada!
+
+feedback.casemanagement.document.route.route_duplicated=Ruta duplicada label.faceted.search = aspectos de la b\u00fasqueda
+
+feedback.check.mail.error=Error de conexi\u00f3n
+
+feedback.check.mail.success=Correo electr\u00f3nico comprobado con \u00e9xito
+
+feedback.classification.invalidClassificationFolder=Carpeta de clasificaci\u00f3n no v\u00e1lida 
+
+feedback.classification.noClassificationFolder=Ninguna carpeta de clasificaci\u00f3n
+
+feedback.classification.noDocumentsToClassify=No hay documentos para clasificar
+
+feedback.classification.requestDoneButSomeInvalid=Clasificaci\u00f3n , algunos documentos no eran v\u00e1lidos
+
+feedback.classification.requestDoneButSomeWereAlreadyClassifiedAndSomeInvalid=Clasificaci\u00f3n realizada, algunos documentos ya exist\u00edan y algunas no eran v\u00e1lidos
+
+feedback.classification.requestDoneButSomeWereAlreadyClassified=Clasificaci\u00f3n , algunos documentos ya exist\u00edan
+
+feedback.classification.requestDone=Clasificaci\u00f3n realizada
+
+feedback.classification.unauthorized=No est\u00e1 autorizado para clasificar
+
+feedback.correctErrors=Por favor, corrija los errores
+
+feedback.directory.deleteEntry.constraintError=Esta entrada est\u00e1 referenciada en otro vocabulario
+
+feedback.document.route.no.creation.rights=No tiene permisos suficientes.
+
+feedback.documents_updated=Documentos actualizados
+
+feedback.documents_update_error.writePermDenied=Documento(s) no actualizado(s). Permiso de escritura denegado en el documento {0}.
+
+feedback.faceted.search.emptyTitle=Nombre de su b\u00fasqueda para guardar
+
+feedback.order.movedDown=Documento desplazado hacia abajo
+
+feedback.order.movedToBottom=Documento desplazado al final
+
+feedback.order.movedToTop=Documento desplazado al principio
+
+feedback.order.movedUp=Documento desplazado hacia arriba
+
+feedback.search.invalid=El motor de b\u00fasqueda no puede procesar esta solicitud
+
+feedback.search.noKeywords=Por favor, escriba una palabra clave
+
+feedback.search.star=La b\u00fasqueda no puede comenzar con el caracter *
+
+feedback.sync.error=Error de conexi\u00f3n
+
+feedback.sync.success=Sincronizaci\u00f3n realizada con \u00e9xito
+
+feedback.unclassification.noDocumentsToUnclassify=No hay documentos para desclasificar
+
+feedback.unclassification.requestDoneButSomeWereNotClassified=Desclasificaci\u00f3n realizada, algunos documentos no existen
+
+feedback.unclassification.requestDone=Desclasificaci\u00f3n realizada
+
+feedback.unclassification.unauthorized=No est\u00e1 autorizado para desclasificar
+
+feedback.versioning.versionRemoved=Versi\u00f3n eliminada
+
+File.description=Un documento de archivo se compone de un archivo adjunto que suba a la aplicaci\u00f3n. Se pueden subir archivos de cualquier formato. 
+
+File=Archivo
+
+fileImporter.error.nullUploadedFile=Debe subir un archivo
+
+fileImporter.error.unsupportedFile=No se soporta este tipo de archivo en este tipo de carpeta
+
+filename=Nombre del archivo
+
+FileWithOle=Archivo con objetos OLE
+
+firstName=Nombre
+
+Folder.description=Una carpeta es un directorio en el que se pueden agrupar varios documentos, cre\u00e1ndolos directamente en la carpeta o peg\u00e1ndolos.
+
+Folder=Carpeta
+
+Forum.description=Un Foro permite varios hilos.
+
+Forum=Foro
+
+gadget.category.collaborative=Servicios de colaboraci\u00f3n
+
+gadget.category.information=Noticias
+
+gadget.category.media=Medios de comunicaci\u00f3n
+
+gadget.category.utilities=Usos
+
+heading.entityAddANewOccurrence=Agregar enlace a documento nuevo
+
+heading.entityOccurrences=Incidencias en los documentos
+
+heading.error.pdf.openOffice=Error de generaci\u00f3n de PDF
+
+heading.linkToEntity=Enlace a una nueva entidad
+
+heading.occurrencesOfOrganizations=Organizaciones
+
+heading.occurrencesOfPeople=Personas
+
+heading.occurrencesOfPlaces=Lugares
+
+heading.remoteEntityLinks=Base de conocimiento Remota
+
+help.chooseDocumentType=Seleccione el tipo del documento nuevo de la siguiente lista.
+
+help.command.clipboard.addworklist=A\u00f1adir a la lista de trabajo
+
+help.command.clipboard.copy=Copiar contenido al portapapeles
+
+help.command.clipboard.paste=Pegar contenido del portapapeles
+
+import.continue=Continuar las importaci\u00f3n
+
+info.groupManager.groupCreated=Grupo creado
+
+info.userManager.userCreated=Usuario creado
+
+invalid_operation=Operaci\u00f3n no v\u00e1lida.
+
+javax.faces.component.UIInput.CONVERSION=Se produjo un error de conversi\u00f3n
+
+javax.faces.component.UIInput.REQUIRED=Valor requerido
+
+javax.faces.component.UISelectMany.INVALID=El valor no es una opci\u00f3n v\u00e1lida
+
+javax.faces.component.UISelectOne.INVALID=El valor no es una opci\u00f3n v\u00e1lida
+
+javax.faces.converter.DateTimeConverter.DATE=''{0}'' no puede entenderse como fecha.
+
+javax.faces.converter.DateTimeConverter.DATE_detail=''{0}'' no puede entenderse como fecha. Ejemplo: {1}
+
+javax.faces.converter.DateTimeConverter.DATETIME=''{0}'' no puede entenderse como fecha y hora.
+
+javax.faces.converter.DateTimeConverter.DATETIME_detail=''{0}'' no puede ser entendido como fecha y hora. Ejemplo: {1}
+
+javax.faces.converter.DateTimeConverter.PATTERN_TYPE=Un ''patr\u00f3n'' o ''tipo'' atributo debe ser especificado para convertir el valor ''{0}''.
+
+javax.faces.converter.DateTimeConverter.TIME=''{0}'' no puede ser entendido como hora.
+
+javax.faces.converter.DateTimeConverter.TIME_detail=''{0}'' no puede ser entendido como hora. Ejemplo: {1}
+
+javax.faces.converter.DoubleConverter.DOUBLE=''{0}'' debe ser un n\u00famero consistente de uno o m\u00e1s d\u00edgitos.
+
+javax.faces.converter.DoubleConverter.DOUBLE_detail=''{0}''debe ser un n\u00famero entre 4.9E-324 y 1.7976931348623157E308 Ejemplo: 66.6
+
+javax.faces.converter.NumberConverter.CURRENCY=''{0}'' no puede ser entendido como moneda.
+
+javax.faces.converter.NumberConverter.CURRENCY_detail=''{0}'' no puede ser entendido como moneda. Ejemplo: {1}
+
+javax.faces.converter.NumberConverter.NUMBER=''{0}'' no es un n\u00famero.
+
+javax.faces.converter.NumberConverter.NUMBER_detail=''{0}'' no es un n\u00famero. Ejemplo: {1}
+
+javax.faces.converter.NumberConverter.PATTERN=''{0}'' no es un patr\u00f3n de n\u00fameros.
+
+javax.faces.converter.NumberConverter.PATTERN_detail=''{0}'' no es un patr\u00f3n de n\u00fameros. Ejemplo: {1}
+
+javax.faces.converter.NumberConverter.PERCENT=''{0}'' no puede entenderse como un porcentaje.
+
+javax.faces.converter.NumberConverter.PERCENT_detail=''{0}'' no puede entenderse como un porcentaje. Ejemplo: {1}
+
+javax.faces.validator.DoubleRangeValidator.MAXIMUM=El valor es mayor que el m\u00e1ximo permitido {0}
+
+javax.faces.validator.DoubleRangeValidator.MINIMUM=El valor es menor que el m\u00e1nimo permitido {0}
+
+javax.faces.validator.DoubleRangeValidator.TYPE=El valor no es del tipo correcto
+
+javax.faces.validator.LengthValidator.MAXIMUM=El valor es mayor que el m\u00e1ximo permitido {0}
+
+javax.faces.validator.LengthValidator.MINIMUM=El valor es menor que el m\u00e1ximo permitido {0}
+
+javax.faces.validator.LongRangeValidator.MAXIMUM=El valor es mayor que el m\u00e1ximo permitido {0}
+
+javax.faces.validator.LongRangeValidator.MINIMUM=El valor es menor que el m\u00e1ximo permitido {0}
+
+javax.faces.validator.LongRangeValidator.TYPE=El valor no es del tipo correcto
+
+javax.faces.validator.NOT_IN_RANGE=El atributo especificado no est\u00e1 entre los valores esperados {0} y {1}
+
+label.action=Acci\u00f3n
+
+label.action.restart=Reiniciar el servidor
+
+label.advanced_search.searchpath=Ruta de b\u00fasqueda
+
+label.all.saved.searches=Todas las b\u00fasquedas
+
+label.and=y
+
+label.aposteriori=Despu\u00e9s
+
+label.appcenter.platform.filter=Mostrar s\u00f3lo los paquetes compatibles con mi distribuci\u00f3n
+
+label.appcenter.show.new.packages=Mostrar \u00fanicamente los paquetes nuevos
+
+label.apriori=De antemano
+
+label.archivedVersions=Versiones archivadas
+
+label.audit.all=Todo
+
+label.audit.auth=Autenticaci\u00f3n
+
+label.audit.doc=Documentos
+
+label.audit.endDate=Fecha de finalizaci\u00f3n
+
+label.audit.lifecycle=Ciclo de vida
+
+label.audit.startDate=Fecha de inicio
+
+label.available.subscriptions=Suscripciones disponibles
+
+label.availableWorkspaces=Espacios de trabajo disponibles
+
+label.bad.loginpassword.or.noproject=Contrase\u00f1a incorrecta o no est\u00e1 asociadada a ning\u00fan proyecto asociado en Conectar
+
+label.blog=Blog
+
+label.blogpost.content=Contenido
+
+label.blogpost.description=Descripci\u00f3n
+
+label.blogpost.title=T\u00edtulo
+
+label.blog.rss.comments=Comentarios
+
+label.blog.rss.pages=P\u00e1ginas
+
+label.browse.back=Volver
+
+label.browse.backToDocumentView=Volver a la vista del documento
+
+label.bulkedit.cbvalue.ALL=TODO
+
+label.bulkedit.cbvalue.EMPTY=VAC\u00cdO
+
+label.bulkedit.removeFromList=Eliminar los documentos de Mi Lista de Trabajo
+
+label.byCoverageNavigation=B\u00fasqueda por cubiertas
+
+label.bySubjectsNavigation=B\u00fasqueda por temas
+
+label.byTagNavigation=B\u00fasqueda por etiquetas
+
+label.bytes.suffix=B
+
+label.cannot.render.without.main.blob=No se puede mostrar el documento sin un archivo principal adjunto
+
+label.category=Categor\u00eda
+
+label.chainSelect.empty_selection=Debe seleccionar alg\u00fan valor.
+
+label.chainSelect.incomplete_selection=Se debe seleccionar un valor en cada campo.
+
+label.chainSelect.selection=Selecci\u00f3n:
+
+label.classification.classifyHere=Clasifique aqu\u00ed
+
+label.classification.confirmDeleteClassificationFolders=\u00bfEst\u00e1 seguro que desea eliminar la carpeta(s) de clasificaci\u00f3n?
+
+label.classification.confirmUnclassify=\u00bfDesclasificar documento(s) seleccionado?
+
+label.classification.create=Puede crear uno.
+
+label.classification.currentClassifications=Documentos clasificados de la carpeta actual
+
+label.classification.currentSubFolders=Sub-carpetas
+
+label.classification.emptyFolder=No hay subcarpetas.
+
+label.classification.mode=Modo
+
+label.classification.noClassificationRoots=No hay \u00e1rboles de clasificaci\u00f3n
+
+label.classification.noClassifications=No hay documentos clasificados
+
+label.classification.noClassificationTree=No hay un \u00e1rbol de clasificaci\u00f3n disponible
+
+label.classification.targets=Documentos
+
+label.classification.tree=\u00e1rbol de clasificaci\u00f3n
+
+label.classification.unclassify=Desclasificar
+
+label.classification.validate=Validar
+
+label.click=Haga clic en
+
+label.clipboard.emptyDocuments=Los documentos seleccionados no disponen de datos exportables
+
+label.clipboard.empty=No hay documentos en el portapapeles
+
+label.comment.added.sucess=Su comentario ha sido a\u00f1adido al foro.
+
+label.comment=Comentario
+
+label.comments.add=A\u00f1adir comentario
+
+label.comments.author=Autor
+
+label.comments.content=Contenido
+
+label.comments.date=Fecha de Creaci\u00f3n
+
+label.comments.file.see=Descargar el fichero adjunto\:
+
+label.comments.noComments=No hay comentarios para este documento
+
+label.comment.waiting_approval=Su comentario se mostrar\u00e1 cuando lo apruebe un moderador.
+
+label.connect.registrationError=Error de registro
+
+label.connect.wrongCLID=Identificador CLID incorrecto
+
+label.connect.wrong.package=\u00a1paquete incorrecto!
+
+label.content.emptyFolder=Esta carpeta no contiene documentos.
+
+label.content.empty.search=Ning\u00fan documento coincide con los criterios de b\u00fasqueda
+
+label.content.header.actions=Acciones
+
+label.content.header.author=Autor
+
+label.content.header.comments=Comentarios
+
+label.content.header.created=Creaci\u00f3n
+
+label.content.header.currentLifecycleState=Estado
+
+label.content.header.delete=Eliminar
+
+label.content.header.description=Descripci\u00f3n
+
+label.content.header.documentProperties=Propiedades del documento
+
+label.content.header.lastContributor=\u00daltimo colaborador
+
+label.content.header.location=Localizaci\u00f3n
+
+label.content.header.modified=\u00daltima modificaci\u00f3n
+
+label.content.header.path=Ruta
+
+label.content.header.selection=Selecci\u00f3n
+
+label.content.header.size=Tama\u00f1o
+
+label.content.header.title=T\u00edtulo
+
+label.content.header.type=Tipo
+
+label.content.noOccurrence=No hay incidentes en esta entidad
+
+label.content.tree=Plan principal de navegaci\u00f3n
+
+label.contentview.document_content=Contenido del documento
+
+label.contentview.document_trash_content=Contenido de la papelera
+
+label.contentview.export.atom=Exportaci\u00f3n ATOM 
+
+label.contentview.export.atom.title=ATOM RSS para ver el contenido ''{0}''
+
+label.contentview.export.atom.titleWithDocument=ATOM RSS para el documento ''{0}'' y ver el contenido ''{1}''
+
+label.contentview.export.csv=Exportar CSV
+
+label.contentview.exportLinks=Exportar enlaces
+
+label.contentview.export.pdf=Exportacr en PDF
+
+label.contentview.export.rss=Exportar en RSS
+
+label.contentview.export.rss.title=RSS para ver el contenido ''{0}''
+
+label.contentview.export.rss.titleWithDocument=RSS para el ''{0}'' y ver el contenido ''{1}''
+
+label.contentview.export.xl=Exportar en formato xl
+
+label.contentview.filter.clearFilterButton=Borrar
+
+label.contentview.filter.clearFilter=Quitar filtro
+
+label.contentview.filter.filterAction=Filtro
+
+label.contentview.filter.title=Filtro
+
+label.contentview.orderable_document_content=contenido del documento para ordenar
+
+label.contentview.pageSize=Elementos/p\u00e1gina
+
+label.contentview.section_content=Contenido de la secci\u00f3n
+
+label.context.settings=Configuraci\u00f3n
+
+label.create.wiki.page=Crear nueva p\u00e1gina wiki
+
+label.dashboard.assigned=La tarea ha sido asignada correctamente.
+
+label.dashboard.empty=No hay tareas que mostrar
+
+label.dashboard.management.anonymous.description=Configure el panel de control que se mostrar\u00e1 a los usuarios que no han identificado.
+
+label.dashboard.management.default.description=Configure el panel de control predeterminado que se mostrar\u00e1 a los usuarios hasta que lo personalicen.
+
+label.dashboard.user.document.process.empty=No hay flujos de trabajo que mostrar
+
+label.date=Fecha
+
+label.description=Descripci\u00f3n
+
+label.directories.arabic=\u00c1rabe
+
+label.directories.chinese=Chino
+
+label.directories.continent.africa=\u00c1frica
+
+label.directories.continent.antarctica=Ant\u00e1rtida
+
+label.directories.continent.asia=Asia
+
+label.directories.continent.europe=Europa
+
+label.directories.continent.north-america=Am\u00e9rica del Norte
+
+label.directories.continent.oceania=Australia/Ocean\u00eda
+
+label.directories.continent.south-america=Am\u00e9rica del Sur
+
+label.directories.country.Afghanistan=Afganist\u00e1n
+
+label.directories.country.Aland_Islands=Islas Aland
+
+label.directories.country.Albania=Albania
+
+label.directories.country.Algeria=Algeria
+
+label.directories.country.American_Samoa=American Samoa
+
+label.directories.country.Andorra=Andorra
+
+label.directories.country.Angola=Angola
+
+label.directories.country.Anguilla=Anguilla
+
+label.directories.country.Antarctica_the_territory_South_of_60_deg_S=Ant\u00e1rtida (El territorio al sur de 60 \u00ba S)
+
+label.directories.country.Antigua_and_Barbuda=Antigua y Barbuda
+
+label.directories.country.Argentina=Argentina
+
+label.directories.country.Armenia=Armenia
+
+label.directories.country.Aruba=Aruba
+
+label.directories.country.Australia=Australia
+
+label.directories.country.Austria=Austria
+
+label.directories.country.Azerbaijan=Azerbaijan
+
+label.directories.country.Bahamas=Bahamas
+
+label.directories.country.Bahrain=Bahrein
+
+label.directories.country.Bangladesh=Bangladesh
+
+label.directories.country.Barbados=Barbados
+
+label.directories.country.Belarus=Bielorrusia
+
+
+label.directories.country.Belgium=B\u00e9lgica
+
+label.directories.country.Belize=Belize
+
+label.directories.country.Benin=Benin
+
+label.directories.country.Bermuda=Bermuda
+
+label.directories.country.Bhutan=Bhutan
+
+label.directories.country.Bolivia=Bolivia
+
+label.directories.country.Bosnia_and_Herzegovina=Bosnia Herzegovina
+
+label.directories.country.Botswana=Botswana
+
+label.directories.country.Bouvet_Island_Bouvetoya=Isla Bouvet(Bouvetoya)
+
+label.directories.country.Brazil=Brasil
+
+label.directories.country.British_Indian_Ocean_Territory_Chagos_Archipelago=Territorio Oc\u00e9anico Indio Brit\u00e1nico (Archipi\u00e9lago Chagos)
+
+label.directories.country.British_Virgin_Islands=Islas V\u00edrgenes Brit\u00e1nicas
+
+label.directories.country.Brunei_Darussalam=Brunei Darussalam
+
+label.directories.country.Bulgaria=Bulgaria
+
+label.directories.country.Burkina_Faso=Burkina Faso
+
+label.directories.country.Burundi=Burundi
+
+label.directories.country.Cambodia=Camboya
+
+label.directories.country.Cameroon=Camer\u00fan
+
+label.directories.country.Canada=Canad\u00e1
+
+label.directories.country.Cape_Verde=Cabo Verde
+
+label.directories.country.Cayman_Islands=Islas Caim\u00e1n
+
+label.directories.country.Central_African_Republic=Rep\u00fablica Centroafricana
+
+label.directories.country.Chad=Chad
+
+label.directories.country.Chile=Chile
+
+label.directories.country.China=China
+
+label.directories.country.Christmas_Island=Islas Navidad
+
+label.directories.country.Cocos_Keeling_Islands=Islas Cocos (Keeling)
+
+label.directories.country.Colombia=Colombia
+
+label.directories.country.Comoros=Comoros
+
+label.directories.country.Congo_Democratic_Republic=Rep\u00fablica Democr\u00e1tica del Congo
+
+label.directories.country.Congo_Republic=Rep\u00fablica del Congo
+
+label.directories.country.Cook_Islands=Islas Cook
+
+label.directories.country.Costa_Rica=Costa Rica
+
+label.directories.country.Cote_D_Ivoire=Costa de Marfil
+
+label.directories.country.Croatia=Croacia
+
+label.directories.country.Cuba=Cuba
+
+label.directories.country.Cyprus=Chipre
+
+label.directories.country.Czech_Republic=Rep\u00fablica Checa
+
+label.directories.country.Denmark=Dinamarca
+
+label.directories.country.Djibouti=Djibouti
+
+label.directories.country.Dominica=Dominica
+
+label.directories.country.Dominican_Republic=Rep\u00fablica Dominicana
+
+label.directories.country.Ecuador=Ecuador
+
+label.directories.country.Egypt=Egipto
+
+label.directories.country.El_Salvador=El Salvador
+
+label.directories.country.Equatorial_Guinea=Guinea Ecuatorial
+
+label.directories.country.Eritrea=Eritrea
+
+label.directories.country.Estonia=Estonia
+
+label.directories.country.Ethiopia=Etiop\u00eda
+
+label.directories.country.Falkland_Islands_Malvinas=Islas Malvinas
+
+label.directories.country.Faroe_Islands=Islas Feroe
+
+label.directories.country.Fiji=Fiji
+
+label.directories.country.Finland=Finlandia
+
+label.directories.country.France=Francia
+
+label.directories.country.French_Guiana=Guayana Francesa
+
+label.directories.country.French_Polynesia=Polinesia Francesa
+
+label.directories.country.French_Southern_Territories=Territorios del Sur de Francia
+
+label.directories.country.Gabon=Gabon
+
+label.directories.country.Gambia=Gambia
+
+label.directories.country.Georgia=Georgia
+
+label.directories.country.Germany=Alemania
+
+label.directories.country.Ghana=Ghana
+
+label.directories.country.Gibraltar=Gibraltar
+
+label.directories.country.Greece=Greece
+
+label.directories.country.Greenland=Groenlandia
+
+label.directories.country.Grenada=Granada
+
+label.directories.country.Guadaloupe=Guadalupe
+
+label.directories.country.Guam=Guam
+
+label.directories.country.Guatemala=Guatemala
+
+label.directories.country.Guernsey=Guernsey
+
+label.directories.country.Guinea_Bissau=Guinea-Bissau
+
+label.directories.country.Guinea=Guinea
+
+label.directories.country.Guyana=Guayana
+
+label.directories.country.Haiti=Haiti
+
+label.directories.country.Heard_and_McDonald_Islands=Islas Heard y McDonald
+
+label.directories.country.Holy_See_Vatican_City_State=Ciudad del Vaticano
+
+label.directories.country.Honduras=Honduras
+
+label.directories.country.Hong_Kong=Hong Kong
+
+label.directories.country.Hungary=Hungr\u00eda
+
+label.directories.country.Iceland=Islandia
+
+label.directories.country.India=India
+
+label.directories.country.Indonesia=Indonesia
+
+label.directories.country.Iran=Ir\u00e1n
+
+label.directories.country.Iraq=Iraq
+
+label.directories.country.Ireland=Irlanda
+
+label.directories.country.Isle_of_Man=Isla de Man
+
+label.directories.country.Israel=Israel
+
+label.directories.country.Italy=Italia
+
+label.directories.country.Jamaica=Jamaica
+
+label.directories.country.Japan=Jap\u00f3n
+
+label.directories.country.Jersey=Jersey
+
+label.directories.country.Jordan=Jordania
+
+label.directories.country.Kazakhstan=Kazajstan
+
+label.directories.country.Kenya=Kenya
+
+label.directories.country.Kiribati=Kiribati
+
+label.directories.country.Kuwait=Kuwait
+
+label.directories.country.Kyrgyz_Republic=Republica de Kyrgyz
+
+label.directories.country.Lao_People_s_Democratic_Republic=Rep\u00fablica Democr\u00e1tica Popular de Laos
+
+label.directories.country.Latvia=Letonia
+
+label.directories.country.Lebanon=L\u00edbano
+
+label.directories.country.Lesotho=Lesoto
+
+label.directories.country.Liberia=Liberia
+
+label.directories.country.Libyan_Arab_Jamahiriya=Libia
+
+label.directories.country.Liechtenstein=Liechtenstein
+
+label.directories.country.Lithuania=Lituania
+
+label.directories.country.Luxembourg=Luxemburgo
+
+label.directories.country.Macao=Macao
+
+label.directories.country.Macedonia=Macedonia
+
+label.directories.country.Madagascar=Madagascar
+
+label.directories.country.Malawi=Malawi
+
+label.directories.country.Malaysia=Malasia
+
+label.directories.country.Maldives=Maldivas
+
+label.directories.country.Mali=Mali
+
+label.directories.country.Malta=Malta
+
+label.directories.country.Marshall_Islands=Islas Marshall
+
+label.directories.country.Martinique=Martinique
+
+label.directories.country.Mauritania=Mauritania
+
+label.directories.country.Mauritius=Mauricio
+
+label.directories.country.Mayotte=Mayotte
+
+label.directories.country.Mexico=M\u00e9xico
+
+label.directories.country.Micronesia=Micronesia
+
+label.directories.country.Moldova=Moldavia
+
+label.directories.country.Monaco=M\u00f3naco
+
+label.directories.country.Mongolia=Mongolia
+
+label.directories.country.Montenegro=Montenegro
+
+label.directories.country.Montserrat=Montserrat
+
+label.directories.country.Morocco=Marruecos
+
+label.directories.country.Mozambique=Mozambique
+
+label.directories.country.Myanmar=Myanmar
+
+label.directories.country.Namibia=Namibia
+
+label.directories.country.Nauru=Nauru
+
+label.directories.country.Nepal=Nepal
+
+label.directories.country.Netherlands_Antilles=Antillas Holandesas
+
+label.directories.country.Netherlands=Pa\u00edses Bajos
+
+label.directories.country.New_Caledonia=Nueva Caledonia
+
+label.directories.country.New_Zealand=Nueva Zealand
+
+label.directories.country.Nicaragua=Nicaragua
+
+label.directories.country.Nigeria=Nigeria
+
+label.directories.country.Niger=N\u00edger
+
+label.directories.country.Niue=Niue
+
+label.directories.country.Norfolk_Island=Isla Norfolk
+
+label.directories.country.Northern_Mariana_Islands=Islas Marianas del Norte
+
+label.directories.country.North_Korea=Corea del Norte
+
+label.directories.country.Norway=Noruega
+
+label.directories.country.Oman=Om\u00e1n
+
+label.directories.country.Pakistan=Pakist\u00e1n
+
+label.directories.country.Palau=Palau
+
+label.directories.country.Palestinian_Territory=Territorio Palestino
+
+label.directories.country.Panama=Panam\u00e1
+
+label.directories.country.Papua_New_Guinea=Pap\u00faa Nueva Guinea
+
+label.directories.country.Paraguay=Paraguay
+
+label.directories.country.Peru=Per\u00fa
+
+label.directories.country.Philippines=Filipinas
+
+label.directories.country.Pitcairn_Island=Isla Pitcairn
+
+label.directories.country.Poland=Polonia
+
+label.directories.country.Portugal=Portugal
+
+label.directories.country.Puerto_Rico=Puerto Rico
+
+label.directories.country.Qatar=Qatar
+
+label.directories.country.Reunion=Reuni\u00f3n
+
+label.directories.country.Romania=Ruman\u00eda
+
+label.directories.country.Russian_Federation=Federaci\u00f3n Rusa
+
+label.directories.country.Rwanda=Ruanda
+
+label.directories.country.Samoa=Samoa
+
+label.directories.country.San_Marino=San Marino
+
+label.directories.country.Sao_Tome_and_Principe=Santo Tom\u00e9 y Principe
+
+label.directories.country.Saudi_Arabia=Arabia Saud\u00ed
+
+label.directories.country.Senegal=Senegal
+
+label.directories.country.Serbia=Serbia
+
+label.directories.country.Seychelles=Seychelles
+
+label.directories.country.Sierra_Leone=Sierra Leona
+
+label.directories.country.Singapore=Singapur
+
+label.directories.country.Slovakia_Slovak_Republic=Eslovaquia
+
+label.directories.country.Slovenia=Eslovenia
+
+label.directories.country.Solomon_Islands=Islas Salom\u00f3n
+
+label.directories.country.Somalia=Somalia
+
+label.directories.country.South_Africa=Sud\u00e1frica
+
+label.directories.country.South_Georgia_and_the_South_Sandwich_Islands=Georgia del Sur e Islas Sandwich del Sur
+
+label.directories.country.South_Korea=Corea del Sur
+
+label.directories.country.Spain=Espa\u00f1a
+
+label.directories.country.Sri_Lanka=Sri Lanka
+
+label.directories.country.St_Helena=St. Helena
+
+label.directories.country.St_Kitts_and_Nevis=St. Kitts y Nevis
+
+label.directories.country.St_Lucia=St. Lucia
+
+label.directories.country.St_Pierre_and_Miquelon=St. Pierre y Miquelon
+
+label.directories.country.St_Vincent_and_the_Grenadines=St. Vincent y las Granadinas
+
+label.directories.country.Sudan=Sud\u00e1n
+
+label.directories.country.Suriname=Surinam
+
+label.directories.country.Svalbard_Jan_Mayen_Islands=Islas Svalbard & Jan Mayen
+
+label.directories.country.Swaziland=Suazilandia
+
+label.directories.country.Sweden=Suecia
+
+label.directories.country.Switzerland=Suiza
+
+label.directories.country.Syrian_Arab_Republic=Rep\u00fablica Ar\u00e1bica de Siria
+
+label.directories.country.Taiwan=Taiwan
+
+label.directories.country.Tajikistan=Tajikistan
+
+label.directories.country.Tanzania=Tanzania
+
+label.directories.country.Thailand=Tailandia
+
+label.directories.country.Timor_Leste=Timor-Leste
+
+label.directories.country.Togo=Togo
+
+label.directories.country.Tokelau_Tokelau_Islands=Tokelau (Islas Tokelau)
+
+label.directories.country.Tonga=Tonga
+
+label.directories.country.Trinidad_and_Tobago=Trinidad y Tobago
+
+label.directories.country.Tunisia=T\u00fanez
+
+label.directories.country.Turkey=Turqu\u00eda
+
+label.directories.country.Turkmenistan=Turkmenistan
+
+label.directories.country.Turks_and_Caicos_Islands=Islas Turks y Caicos
+
+label.directories.country.Tuvalu=Tuvalu
+
+label.directories.country.Uganda=Uganda
+
+label.directories.country.Ukraine=Ucrania
+
+label.directories.country.United_Arab_Emirates=Emiratos \u00c1rabes Unidos
+
+label.directories.country.United_Kingdom_of_Great_Britain_N_Ireland=Reino Unido de la Gran Breta\u00f1a e Irlanda del norte
+
+label.directories.country.United_States_Minor_Outlying_Islands=Islas menores alejadas de Estados Unidos
+
+label.directories.country.United_States_of_America=Estados Unidos de Am\u00e9rica
+
+label.directories.country.Uruguay=Uruguay
+
+label.directories.country.US_Virgin_Islands=Islas V\u00edrgenes de Estados Unidos
+
+label.directories.country.Uzbekistan=Uzbekistan
+
+label.directories.country.Vanuatu=Vanuatu
+
+label.directories.country.Venezuela=Venezuela
+
+label.directories.country.Viet_Nam=Vietnam
+
+label.directories.country.Wallis_and_Futuna_Islands=Islas Wallis y Futuna
+
+label.directories.country.Western_Sahara=Sahara occidental
+
+label.directories.country.Yemen=Yemen
+
+label.directories.country.Zambia=Zambia
+
+label.directories.country.Zimbabwe=Zimbabwe
+
+label.directories.english=Ingl\u00e9s
+
+label.directories.error=Hay un conflicto de vocabulario
+
+label.directories.french=Franc\u00e9s
+
+label.directories.german=Alem\u00e1n
+
+label.directories.italian=Italiano
+
+label.directories.japanese=Japon\u00e9s
+
+label.directories.nature.accomodationApplicationForm=Formulario de solicitud de hospedaje
+
+label.directories.nature.acknowledgement=Acuse de recibo
+
+label.directories.nature.application=Aplicaci\u00f3n
+
+label.directories.nature.article=Art\u00edculo
+
+label.directories.nature.assessment=Valoraci\u00f3n
+
+label.directories.nature.bankAccountDetails=Datos de la cuenta bancaria
+
+label.directories.nature.booklet=Folleto
+
+label.directories.nature.card=Tarjeta
+
+label.directories.nature.caseItem=Art\u00edculos de ejemplo
+
+label.directories.nature.CDRom=CD-Rom
+
+label.directories.nature.certificate=Certificado
+
+label.directories.nature.contract=Contrato
+
+label.directories.nature.convocation=Asamblea
+
+label.directories.nature.credit=Cr\u00e9dito
+
+label.directories.nature.decree=Decreto
+
+label.directories.nature.deliveryNote=Nota de entrega
+
+label.directories.nature.email=Correo electr\u00f3nico
+
+label.directories.nature.endorsement=Aprobaci\u00f3n
+
+label.directories.nature.fax=Fax
+
+label.directories.nature.internshipReport=Informe de pr\u00e1cticas
+
+label.directories.nature.invoice=Factura
+
+label.directories.nature.leaveApplication=Salir de la aplicaci\u00f3n
+
+label.directories.nature.letter=Carta
+
+label.directories.nature.loanApplication=Solicitud de pr\u00e9stamo
+
+label.directories.nature.medicalCertificate=Certificado m\u00e9dico
+
+label.directories.nature.memo=Circular
+
+label.directories.nature.note=Nota
+
+label.directories.nature.notice=Aviso
+
+label.directories.nature.notification=Notificaci\u00f3n
+
+label.directories.nature.order=Orden
+
+label.directories.nature.pressReview=Nota de prensa
+
+label.directories.nature.procedure=Procedimiento
+
+label.directories.nature.purchaseOrder=Orden de compra
+
+label.directories.nature.quotation=Oferta
+
+label.directories.nature.report=Informe
+
+label.directories.nature.serviceCertificate=Certificado de servicios
+
+label.directories.nature.trainingApplication=Solicitud de formaci\u00f3n
+
+label.directories.nature.worksheet=Hoja de c\u00e1lculo
+
+label.directories.portuguese=Portugu\u00e9s
+
+label.directories.russian=Rusia
+
+label.directories.spanish=Espa\u00f1ol
+
+label.directories.subject.arts=Arte
+
+label.directories.subject.business=Negocios
+
+label.directories.subject.computers=Ordenadores
+
+label.directories.subject.games=Juegos
+
+label.directories.subject.health=Salud
+
+label.directories.subject.home=Hogar
+
+label.directories.subject.kidsAndTeens=Ni\u00f1os y j\u00f3venes
+
+label.directories.subject.News=Noticias
+
+label.directories.subject.recreation=Ocio
+
+label.directories.subject.reference=Referencia
+
+label.directories.subject.regional=Regional
+
+label.directories.subject.science=Ciencia
+
+label.directories.subject.shopping=Compras
+
+label.directories.subject.society=Sociedad
+
+label.directories.subject.sports=Deportes
+
+label.directories.subtopic.architecture=Arquitectura
+
+label.directories.subtopic.arthistory=Historia del arte
+
+label.directories.subtopic.astronautic=Astron\u00e1utica
+
+label.directories.subtopic.astronomy=Astronom\u00eda
+
+label.directories.subtopic.biology=Biolog\u00eda
+
+label.directories.subtopic.chemistry=Qu\u00edmica
+
+label.directories.subtopic.cinema=Cine
+
+label.directories.subtopic.collection=Colecci\u00f3n
+
+label.directories.subtopic.comics=C\u00f3mics
+
+label.directories.subtopic.company=Empresa
+
+label.directories.subtopic.culture=Cultura
+
+label.directories.subtopic.danse=Danza
+
+label.directories.subtopic.earthscience=Ciencias de la Tierra
+
+label.directories.subtopic.ecology=Ecolog\u00eda
+
+label.directories.subtopic.economy=Econom\u00eda
+
+label.directories.subtopic.education=Educaci\u00f3n
+
+label.directories.subtopic.electronic=Electr\u00f3nica
+
+label.directories.subtopic.energy=Energ\u00eda
+
+label.directories.subtopic.fashion=Moda
+
+label.directories.subtopic.games=Juegos
+
+label.directories.subtopic.gardening=Jardiner\u00eda
+
+label.directories.subtopic.gastronomy=Gastronom\u00eda
+
+label.directories.subtopic.geography=Geograf\u00eda
+
+label.directories.subtopic.history=Historia
+
+label.directories.subtopic.humanitarian=Humanidades
+
+label.directories.subtopic.industry=Industria
+
+label.directories.subtopic.information=Informaci\u00f3n
+
+label.directories.subtopic.it=Tecnolog\u00edas
+
+label.directories.subtopic.languages=Idiomas
+
+label.directories.subtopic.literature=Literatura
+
+label.directories.subtopic.logic=L\u00f3gica
+
+label.directories.subtopic.math=Matem\u00e1ticas
+
+label.directories.subtopic.medicine=Medicina
+
+label.directories.subtopic.minority=Minor\u00edas
+
+label.directories.subtopic.music=M\u00fasica
+
+label.directories.subtopic.paint=Pintura
+
+label.directories.subtopic.photography=Fotograf\u00eda
+
+label.directories.subtopic.phylosophy=Filosof\u00eda
+
+label.directories.subtopic.physic=F\u00edsica
+
+label.directories.subtopic.psychology=Psicolog\u00eda
+
+label.directories.subtopic.religion=Religi\u00f3n
+
+label.directories.subtopic.rights=Derecho
+
+label.directories.subtopic.robotic=Rob\u00f3tica
+
+label.directories.subtopic.sexuality=Sexualidad
+
+label.directories.subtopic.show=Espect\u00e1culos
+
+label.directories.subtopic.sociology=Sociolog\u00eda
+
+label.directories.subtopic.sport=Deportes
+
+label.directories.subtopic.television=Televisi\u00f3n
+
+label.directories.subtopic.tourism=Turismo
+
+label.directories.subtopic.transport=Transporte
+
+label.directories.subtopic.videogames=Videojuegos
+
+label.directories.subtopic.women=Mujeres
+
+label.directories.topic.art=Arte
+
+label.directories.topic.dailylife=Vida
+
+label.directories.topic.humanscience=Ciencias
+
+label.directories.topic.society=Sociedad
+
+label.directories.topic.technology=Tecnolog\u00eda
+
+label.dnd.attach=Adjunto
+
+label.dnd.attachfiles=Adjuntar archivo
+
+label.dnd.choose.operation=Seleccione operaci\u00f3n a importar
+
+label.dnd.dropHere=Coloque aqu\u00ed los archivos para que se adjunten en el archivo principal y/o anexos.
+
+label.dnd.error=No puede continuar con la subida del archivo debido a un error
+
+label.dnd.nooperation=No puedes subir aqu\u00ed (permisos insuficientes o mala configuraci\u00f3n)
+
+label.dnd.uploaded.files=Archivos cargados
+
+label.dnd.upload.inprogress=Carga en curso
+
+label.dnd.upload.ok.continue=Carga completada, haga clic para continuar
+
+label.document.directCreateFromTemplate=Modificar online como documento nuevo
+
+label.document.directEdit=Editar online
+
+label.document=Documento
+
+label.document.download=Descargar
+
+label.document.generatePdf=Generar PDF
+
+label.document.pending=Este documento est\u00e1 en espera para su publicaci\u00f3n
+
+label.document.picture=Imagen
+
+label.document.preview=Previsualizar
+
+label.document.published=Este documento est\u00e1 publicado
+
+label.document.route.content.header.type=Tipo
+
+label.document.routing.cancel.route=Cancelar ruta
+
+label.document.routing.initiator=Iniciador
+
+label.document.routing.participatingDocuments=Documentos participativos 
+
+label.document.routing.related.route=ruta relacionada
+
+label.document.routing.saveAsNew=Guardar ruta como Nueva Instancia
+
+label.document.routing.tokens=Fichas
+
+label.documents.confirmDeleteComments=\u00bfBorrar comentario?
+
+label.documents.confirmDeleteDocuments=\u00bfEnviar a la papelera lo(s) documento(s) seleccionados?
+
+label.documents.confirmDeleteDocumentsForever=\u00bfEliminar permanentemente lo(s) documento(s) seleccionados?
+
+label.documents.confirmUndeleteDocuments=\u00bfRecuperar los documentos seleccionados?
+
+label.domains=Dominios
+
+label.dublincore.author.info=El autor se rellena autom\u00e1ticamente al crear el documento
+
+label.dublincore.contributors=Colaboradores
+
+label.dublincore.contributors.info=Los colaboradores se rellenan autom\u00e1ticamente al crear o editar el documento
+
+label.dublincore.coverage=Cobertura
+
+label.dublincore.coverage.info=Este campo se emplea en la navegaci\u00f3n virtual
+
+label.dublincore.created=Creado el
+
+label.dublincore.creationDateBetween=Fecha de creaci\u00f3n del
+
+label.dublincore.creationDate=Fecha de creaci\u00f3n
+
+label.dublincore.creator=Autor
+
+label.dublincore.description=Descripci\u00f3n
+
+label.dublincore.expirationDateBetween=Fecha de vencimiento del
+
+label.dublincore.expirationDate=Fecha de vencimiento
+
+label.dublincore.expired=Expira el
+
+label.dublincore.format=Formato
+
+label.dublincore.issueDateBetween=Fecha de emisi\u00f3n del
+
+label.dublincore.issueDate=Fecha de emisi\u00f3n
+
+label.dublincore.issued=Publicado el
+
+label.dublincore.language=Idioma
+
+label.dublincore.lastContributor.info=El \u00faltimo colaborador se rellena autom\u00e1ticamente al crear o editar el documento
+
+label.dublincore.lastContributor=\u00daltimo colaborador
+
+label.dublincore.modificationDateBetween=Fecha de modificaci\u00f3n del
+
+label.dublincore.modificationDate=Fecha de modificaci\u00f3n
+
+label.dublincore.modified=\u00daltima modificaci\u00f3n el
+
+label.dublincore.nature=Naturaleza
+
+label.dublincore.owner=Propietario
+
+label.dublincore.relations=Relaciones
+
+label.dublincore.rights=Derechos de autor
+
+label.dublincore.source=Fuente
+
+label.dublincore.subjects.info=Este campo se emplea para la navegaci\u00f3n virtual
+
+label.dublincore.subjects=Asuntos
+
+label.dublincore.subject=Tema
+
+label.dublincore.title=T\u00edtulo
+
+label.dublincore.validationDateBetween=Fecha de validaci\u00f3n del
+
+label.dublincore.validationDate=Fecha de validaci\u00f3n
+
+label.dublincore.valid=V\u00e1lido desde
+
+label.email.addNewUserToSendTo=A\u00f1adir destinatario
+
+label.email.nousers.selected=Debe seleccionar al menos un destinatario.
+
+label.email.searchResults=Usuarios
+
+label.email.search.users=Buscar
+
+label.email.selectedUsers=Usuarios seleccionados
+
+label.email.send.failed=Error al enviar el mensaje
+
+label.email.send.ok=Mensaje enviado
+
+label.email.subject.empty=El mensaje no tiene asunto
+
+label.email.subject=Asunto
+
+label.empty.loginpassword=Por favor, introduzca su nombre de usuario y contrase\u00f1a
+
+label.empty.project=Proyecto vac\u00edo
+
+label.error.need.name.webcontainer=Mini-sitios necesita tener un nombre
+
+label.event.comment=Informaciones adicionales
+
+label.event.date=Fecha
+
+label.event.document=Documento
+
+label.event.id=Evento
+
+label.event.principal=NOmbre de usuario
+
+label.exportview.contentviews.category=Categor\u00eda
+
+label.exportview.contentviews=Exportaci\u00f3n de directorio
+
+label.exportview.document=Exportaci\u00f3n de documentos 
+
+label.exportview=Vista de exportaci\u00f3n
+
+label.exportview.pdfExport.generationDate=Fecha de generaci\u00f3n
+
+label.exportview.pdfExport=Exportar en PDF
+
+label.exportview.xmlExport=Exportar en XML
+
+label.exportview.zipBlobExport=exportaci\u00f3n de binario ZIP
+
+label.exportview.zipExport=Exportar XML ZIP
+
+label.exportview.zipTreeExport=Exportar XML de \u00c1rbol ZIP  
+
+label.faceted.search.categorizationSearch=Categorizaci\u00f3n
+
+label.faceted.search.coverage=Cobertura
+
+label.faceted.search.dateSearch=Fecha de la b\u00fasqueda
+
+label.faceted.search.default=b\u00fasqueda de facetas por defecto
+
+label.faceted.searches=B\u00fasquedas de facetas disponibles 
+
+label.faceted.search.fulltext=Palabras clave
+
+label.faceted.search.local.configuration.content.view.selection.available=Vista del contenido existente
+
+label.faceted.search.local.configuration.content.view.selection.enable=Ver el contenido habilitado
+
+label.faceted.search.local.configuration.content.view.selection=Configuraci\u00f3n de la b\u00fasqueda de facetas
+
+label.faceted.search.local.configuration.content.view.selection.info=Te permite elegir qu\u00e9 vistas de contenido se pueden utilizar
+
+label.faceted.search.local.configuration.content.view.selection.label=Selecci\u00f3n de vista de contenido 
+
+label.faceted.search.path=Carpeta
+
+label.faceted.search.pathSearch=Ruta
+
+label.faceted.search.peopleSearch=B\u00fasqueda de usuarios
+
+label.faceted.search.subjects=Sujetos
+
+label.faceted.search.textSearch=Texto de b\u00fasqueda
+
+label.file.content=Contenido
+
+label.file.filename=Nombre del Archivo
+
+label.files.files=Archivos
+
+label.files.noAttachedFiles=No hay archivos adjuntos en este documento.
+
+label.footer.blogs=Blogs
+
+label.footer.community=Comunidad
+
+label.footer.contactUs=Cont\u00e1ctenos
+
+label.footer.documentation=Documentaci\u00f3n
+
+label.footer.forums=Foro
+
+label.forum.content.header.last_added=\u00daltimo mensaje
+
+label.forum.content.header.moderated=Moderaci\u00f3n
+
+label.forum.content.header.nb_pending_posts=N\u00ba de mensajes en espera
+
+label.forum.content.header.nb_published_posts=N\u00ba de mensajes publicados
+
+label.forum.content.header.thread=Asunto
+
+label.forum.post.attached_file=Adjuntar un archivo
+
+label.forum.post.by=por
+
+label.forum.post.description=Comentario
+
+label.forum.post.title.prefix=Re\:
+
+label.forum.post.title=T\u00edtulo
+
+label.forum.thread.description=Descripci\u00f3n
+
+label.forum.thread.moderated=Moderar
+
+label.forum.thread.moderated.no=No
+
+label.forum.thread.moderated.yes=S\u00ed
+
+label.forum.thread.moderators=Lista de moderadores
+
+label.forum.thread.titre=T\u00edtulo
+
+label.gadget.bbcnews=Noticias BBC
+
+label.gadget.bookmarks=Marcadores
+
+label.gadget.edit=Editar
+
+label.gadget.flash=Flash
+
+label.gadget.hello=Hola
+
+label.gadget.lastdocuments=\u00daltimos documentos modificados
+
+label.gadget.lastpublisheddocuments=\u00daltimos documentos publicados
+
+label.gadget.mappy=Mapeo
+
+label.gadget.meteo=Meteo
+
+label.gadget.no.document=No hay documentos para mostrar
+
+label.gadget.note=Nota
+
+label.gadget.photo=Foto
+
+label.gadget.quicksearch.description=Escriba un texto para iniciar la b\u00fasqueda de documentos
+
+label.gadget.quicksearch=B\u00fasqueda r\u00e1pida
+
+label.gadget.richtext=Editor de texto
+
+label.gadgets.selection.title=Gadgets disponibles
+
+label.gadget.tasks=Mis tareas
+
+label.gadget.todolist=Lista de cosas por hacer
+
+label.gadget.url=URL del gadget
+
+label.gadget.userdeleteddocuments=Mis documentos eliminados
+
+label.gadget.userdocuments=Mis documentos
+
+label.gadget.usersites=Mis sitios
+
+label.gadget.userworkspaces=Mi espacio de trabajo
+
+label.gadget.video=V\u00eddeo
+
+label.gadget.waitingfor=Mis solicitudes pendientes
+
+label.groupManager.editGroup=Editar
+
+label.groupManager.emptyGroupList=El grupo buscado no existe
+
+label.groupManager.emptyGroupName=\u00a1El nombre del grupo no puede estar vac\u00edo!
+
+label.groupManager.groupMembers=Sub-grupos
+
+label.groupManager.groupName=Nombre del Grupo
+
+label.groupManager.groups=Grupos
+
+label.groupManager.userMembers=Miembros del Grupo
+
+label.groupManager.viewGroup=Ver
+
+label.groupManager.wrongGroupName=El nombre del grupo s\u00f3lo puede contener letras y n\u00fameros
+
+label.header.info.exif=EXIF
+
+label.header.info.iptc=IPTC
+
+label.here=aqu\u00ed
+
+label.imageUpload.chooseFile=2. Elegir una imagen
+
+label.imageUpload.chooseSize=1. Elegir un tama\u00f1o
+
+label.imageUpload.image=Imagen
+
+label.imageUpload.mediumSize=Tama\u00f1o medio
+
+label.imageUpload.originalSize=Tama\u00f1o original
+
+label.imageUpload.searchTab=Buscar
+
+label.imageUpload.thumbnailSize=Miniatura
+
+label.imageUpload.unableToUpload=Debe crear el documento antes de subir una imagen.
+
+label.imageUpload.uploadTab=Subir
+
+label.imageUpload.upload=Subir una imagen
+
+label.import.and.add.to.clipboard=Importar y agregar al Portapapeles
+
+label.import.and.add.to.worklist=Importar y agregar a la lista de trabajo
+
+label.import.path=Ruta
+
+label.import.repo=Nombre del repositorio
+
+label.import.use.multi.thread=M\u00faltiples hilos
+
+label.inherited.subscriptions=Suscripciones heredadas
+
+label.inputFile.authorizedExtensions=Extensiones autorizadas\: {0}
+
+label.inputFile.deleteChoice=Eliminar
+
+label.inputFile.editFilename=Nombre del archivo:
+
+label.inputFile.keepChoice=Mantener
+
+label.inputFile.maxSize=max\: {0}
+
+label.inputFile.noneChoice=Ninguno
+
+label.inputFile.tempKeepChoice=Guardar
+
+label.inputFile.unauthorizedExtensions=Extensiones no autorizadas\: {0}
+
+label.inputFile.uploadChoice=Subir
+
+label.instancetype.dev=Desarrollo
+
+label.instancetype.preprod=Preproducci\u00f3n
+
+label.instancetype.prod=Producci\u00f3n
+
+label.layoutDemo.customWidgets=Widgets personalizados
+
+label.layoutDemo.listingWidgets=Listado de widgets
+
+label.layoutDemo.reference.anyProperties=Propiedades globales
+
+label.layoutDemo.reference.categories=Categor\u00edas
+
+label.layoutDemo.reference.description=Descripci\u00f3n
+
+label.layoutDemo.reference.editProperties=Editar propiedades
+
+label.layoutDemo.reference.handlerClass=Clase responsable
+
+label.layoutDemo.reference.information=Informaci\u00f3n general
+
+label.layoutDemo.reference.properties=Propiedades
+
+label.layoutDemo.reference.title=T\u00edtulo
+
+label.layoutDemo.reference.type=Tipo
+
+label.layoutDemo.reference.viewProperties=Ver propiedades
+
+label.layoutDemo.shortTitle=Dise\u00f1o de demo
+
+label.layoutDemo.standardWidgets=Widgets standard
+
+label.layoutDemo.widgetDemo.alsoUsedInListings=Este tipo de widget tambi\u00e9n puede ser utilizado en los listados:
+
+label.layoutDemo.widgetDemo.description=Descripci\u00f3n
+
+label.layoutDemo.widgetDemo.editMode=Modo de edici\u00f3n
+
+label.layoutDemo.widgetDemo.overview=Informaci\u00f3n general
+
+label.layoutDemo.widgetDemo.preview=Vista previa
+
+label.layoutDemo.widgetDemo.reference=Referencia
+
+label.layoutDemo.widgetDemo.showSchemaDefinition=Mostrar el esquema de definici\u00f3n
+
+label.layoutDemo.widgetDemo.showSources=Mostrar las fuentes
+
+label.layoutDemo.widgetDemo.submit=Enviar
+
+label.layoutDemo.widgetDemo.viewMode=Modo de vista
+
+label.layoutDemo.widgetPreview.customProperties=Propiedades personalizadas
+
+label.layoutDemo.widgetPreview.help=Cambiar las propiedades en el siguiente formulario para ver el widget generado.
+
+label.layoutDemo.widgetPreview.helpLabel=Etiqueta de ayuda
+
+label.layoutDemo.widgetPreview.label=Etiqueta
+
+label.layoutDemo.widgetPreview.preview=Prevista
+
+label.layoutDemo.widgetPreview.properties=Propiedades
+
+label.layoutDemo.widgetPreview.title=Vista previa del widget
+
+label.layoutDemo.widgetPreview.translated.help=Si se establece en verdadero, la etiqueta y la etiqueta de ayuda ser\u00e1n consideradas como mensajes claves y ser\u00e1n traducidas
+
+label.layoutDemo.widgetPreview.translated=Traducido
+
+label.life.cycle.changeFor=Cambio por
+
+label.lifecycle=Ciclo de vida
+
+label.local.configuration.advancedSearchView=Vista de la b\u00fasqueda avanzada
+
+label.local.configuration.content.view.contentViewSelection=Unir los tipos de documentos y vista de contenidos
+
+label.local.configuration.contentView=Configuraci\u00f3n de contenido de documentos 
+
+label.local.configuration.contentView.info=Para cambiar una o m\u00e1s listas de contenido de documento, haga clic en el bot\u00f3n 'Habilitar' y seleccione la vista de contenidos que desea utilizar.
+
+label.local.configuration.disable=Desactivar
+
+label.local.configuration.enable=Habilitar
+
+label.local.configuration.modified=Configuraci\u00f3n local modificada
+
+label.local.configuration.search.info=Para establecer un formulario diferente para la b\u00fasqueda avanzada en su espacio, haga clic en el bot\u00f3n 'Habilitar' y seleccione la forma que desea utilizar.
+
+label.local.configuration.search=Configuraci\u00f3n de la b\u00fasqueda
+
+label.local.configuration.selection.availableUITypes=Tipos existentes
+
+label.local.configuration.selection.selectedUITypes=Tipos habilitados
+
+label.local.configuration.theme.info=Para establecer un tema diferente en tu espacio, haz clic en el bot\u00f3n 'Habilitar' y seleccione el tema que desee utilizar.
+
+label.local.configuration.theme=Tema de configuraci\u00f3n
+
+label.local.configuration.ui.defaultType=Tipo por defecto
+
+label.local.configuration.ui.types.allowedTypesSelection=Seleccione los tipos de documentos que se pueden crear
+
+label.local.configuration.ui.types.denyAllTypes=Denegar todos los tipos
+
+label.local.configuration.uiTypes=Configuraci\u00f3n de tipos de documentos 
+
+label.local.configuration.uiTypes.info=Para establecer qu\u00e9 tipos de documentos pueden crearse en tu espacio, haz clic en el bot\u00f3n 'Habilitar' y seleccione los tipos de documentos que pueden crearse. Tenga en cuenta que por defecto, se permiten todos los tipos, mueva el que desea filtrar a la columna de la izquierda
+
+label.location=Localizaci\u00f3n
+
+label.locations=Localizaciones
+
+label.log.comment.assignedToGroup=Asignado al grupo
+
+label.log.comment.assignedToUser=Asignado a
+
+label.login.copyright=Copyright \u00a9 2001-{0} Nuxeo y los autores respectivos.
+
+label.login.documentation=Documentaci\u00f3n
+
+label.login.firefoxExtension=Extensi\u00f3n Firefox
+
+label.login.forums=Foros
+
+label.login.getSupport=Obtenga mantenimiento
+
+label.login.goFurther=Vaya m\u00e1s all\u00e1\:
+
+label.login.IEExtension=Extensi\u00f3n IE
+
+label.login.improveYourExperience=Para facilitar el uso de la aplicaci\u00f3n, descargue\:
+
+label.login.invalidUsernameOrPassword=Nombre de usuario o contrase\u00f1a incorrectos
+
+label.login.joinTheCommunity=\u00danase a la comunidad
+
+label.login.language=Idioma
+
+label.login.liveEdit=Nuxeo LiveEdit
+
+label.login.logIn=Entrar
+
+label.login.missingUsername=Falta el nombre de usuario
+
+label.login.password=Contrase\u00f1a
+
+label.login.quickStart=Inicio r\u00e1pido
+
+label.login.securityError=Usuario no autorizado
+
+label.login.username=Nombre de usuario
+
+label.login.visitNuxeoCom=Visite nuxeo.com
+
+label.login.welcomeToNuxeoEnterprise=Bienvenido a Nuxeo Gesti\u00f3n Documental
+
+label.login.welcomeToNuxeoEnterprise=Bienvenido a Nuxeo Motor Web-wiki
+
+label.logo=Logotipo
+
+label.mail.after.document.link=.
+
+label.mail.author=Autor
+
+label.mail.before.document.link=Puede acceder al documento haciendo clic
+
+label.mailbox.manage.classificationRoots=Rutas de clasificaci\u00f3n
+
+label.mail.cc_recipients=CC destinatarios
+
+label.mail.document.link=aqu\u00ed
+
+label.mail.files=Archivos
+
+label.mail.folder.email=Correo electr\u00f3nico
+
+label.mail.folder=Carpeta email
+
+label.mail.folder.emails_limit=L\u00edmite de nuevos correos electr\u00f3nicos recibidos
+
+label.mail.folder.host=Servidor
+
+label.mail.folder.password=Contrase\u00f1a
+
+label.mail.folder.port=Puerto
+
+label.mail.folder.protocol_type=Protocolo
+
+label.mail.folder.socket_factory_fallback=Toma de reserva por defecto
+
+label.mail.folder.socket_factory_port=Toma de puerto de f\u00e1brica
+
+label.mail.folder.ssl_protocols=Protocolos SSL (IMAP)
+
+label.mail.folder.starttls_enable=Inicio TLS (IMAP)
+
+label.mail.folder.title=T\u00edtulo
+
+label.mail.from=De
+
+label.mail.recipients=Destinatarios
+
+label.mail.sender=Remitente
+
+label.mail.sending_date=Fecha de env\u00edo
+
+label.mail.subject=Asunto
+
+label.mail.text=Texto
+
+label.mail.title=Asunto
+
+label.mail.tocc=CC
+
+label.mail.to=A
+
+label.main.tab.admin.center=Centro de administraci\u00f3n
+
+label.main.tab.documents=Gesti\u00f3n Documental
+
+label.main.tab.home=Inicio
+
+label.maintenancemode.active=El modo de mantenimiento est\u00e1 activado
+
+label.maintenancemode.adminLoginOnly=S\u00f3lo los administradores pueden acceder al servidor
+
+label.maintenancemode.message=Mensaje de los administradores
+
+label.massedit.preview.changingDocuments=Documentos que deben modificarse:
+
+label.massedit.preview.field=Campo
+
+label.massedit.preview.formerValue=Valor antiguo 
+
+label.massedit.preview.newValue=Nuevo valor
+
+label.massedit.preview.unchangingDocuments=Documentos que que se mantienen sin cambios:
+
+label.minisite=Mini Sitio
+
+label.name=Nombre
+
+label.none=Ninguno
+
+label.no=No
+
+label.notification=Notificaci\u00f3n
+
+label.notification.notification=Notificaci\u00f3n
+
+label.notifications.registered=Suscripciones registradas
+
+label.noversion=Este documento no tiene versiones archivadas
+
+label.nuxeo.admin=Administraci\u00f3n
+
+label.nuxeo.admin.sysinfo=Sistema de informaci\u00f3n
+
+label.nuxeo.connect.appcenter=Nuxeo tienda de aplicaciones
+
+label.nuxeo.connect.applisting.package=Paquete
+
+label.nuxeo.connect.applisting.package=Paquetes
+
+label.nuxeo.connect.associatedProject=Proyecto asociado
+
+label.nuxeo.connect.CLID=CLID proporcionada por el sitio Web Nuxeo Connect
+
+label.nuxeo.connect.communicating.with.server=Conectando con el servidor Nuxeo Connect...
+
+label.nuxeo.connect.contractEndDate=Fecha de finalizaci\u00f3n del contrato:
+
+label.nuxeo.connect.contractStatus=Estado del contrato:
+
+label.nuxeo.connect.description=Descripci\u00f3n:
+
+label.nuxeo.connect.id.CLID=Identificador l\u00f3gico de instancia (CLID)
+
+label.nuxeo.connect.id.CTID=Identificador t\u00e9cnico de instancia (DITC)
+
+label.nuxeo.connect.instanceDescription=Descripci\u00f3n de la instancia de Nuxeo
+
+label.nuxeo.connect.instanceType=Tipo de instancia
+
+label.nuxeo.connect.login=Sesi\u00f3n Nuxeo Connect
+
+label.nuxeo.connect.main=Status de registro Nuxeo Connect
+
+label.nuxeo.connect.offlineRegistrationDescription=Utilice esto si ya tiene una cuenta de Nuxeo Connect pero su instancia Nuxeo no est\u00e1 conectada a Internet.
+
+label.nuxeo.connect.offlineRegistration=Registro de la instancia sin conexi\u00f3n a internet
+
+label.nuxeo.connect.offlineReg.message1=Primero, busque el n\u00famero de CLID en el
+
+label.nuxeo.connect.offlineReg.message2=Se le pedir\u00e1 que proporcione su identificador t\u00e9cnico de la instancia:
+
+label.nuxeo.connect.offlineReg.message3=A continuaci\u00f3n, pegue aqu\u00ed el n\u00famero CLID proporcionado por Nuxeo Connect \u00a1y reg\u00edstrese!
+
+label.nuxeo.connect.offlineReg.webSite=Sitio Web Nuxeo Connect
+
+label.nuxeo.connect.onlineRegistrationDescription=Utilice esto si ya tiene una cuenta y Nuxeo Connect y la instancia Nuxeo tiene acceso a Internet
+
+label.nuxeo.connect.onlineRegistration=Registro en l\u00ednea de la instancia
+
+label.nuxeo.connect.onlineRegistrationStep2Description=Ahora que se ha autentificado en el servidor de conexi\u00f3n, por favor seleccione el proyecto que debe estar asociado a su instancia.
+
+label.nuxeo.connect.password=Contrase\u00f1a Nuxeo
+
+label.nuxeo.connect.refreshDate=\u00daltima fecha de actualizaci\u00f3n
+
+label.nuxeo.connect.registration.summary.title=Resumen de registro de la instancia
+
+label.nuxeo.connect.securityError=No se puede autenticar en el servidor de Nuxeo Connect. Si se acaba de registrar con el asistente de configuraci\u00f3n o en la p\u00e1gina web de Connect, aseg\u00farese de que no ha olvidado hacer clic en el enlace de activaci\u00f3n en el correo enviado durante el registro.
+
+label.nuxeo.connect.statusError=El servidor de Connect ha devuelto un error durante la comprobaci\u00f3n de su registro:
+
+label.nuxeo.connect.tickets.soon=Pantalla de apoyo de gesti\u00f3n de entradas se a\u00f1adir\u00e1 en breve
+
+label.nuxeo.connect.tickets.title=Apoyo de gesti\u00f3n de entradas
+
+label.nuxeo.notifications.appReviewStarted=Aprobaci\u00f3n de la revisi\u00f3n iniciada
+
+label.nuxeo.notifications.create=Creaci\u00f3n
+
+label.nuxeo.notifications.modif=Modificaci\u00f3n
+
+label.nuxeo.notifications.publication=Publicaci\u00f3n
+
+label.nuxeo.notifications.subscriptions.updated=Suscripciones actualizadas
+
+label.nuxeo.notifications.workflow=Flujo de trabajo cambiado
+
+label.oauth.1d=1 d\u00eda
+
+label.oauth.1h=1 hora
+
+label.oauth.1mth=1 mes
+
+label.oauth.1w=Una semana
+
+label.oauth.5m=5 minutos
+
+label.oauth.certificate=Certificado
+
+label.oauth.consumer.accessRequest=se solicita acceso a sus datos de Nuxeo.
+
+label.oauth.consumer.application=La aplicaci\u00f3n
+
+label.oauth.consumer.grantQuestion=\u00bfQuieres dar acceso?
+
+label.oauth.help.accessTokenURL=URL de acceso al token OAuth
+
+label.oauth.help.callbackURL=Rellamada a la URL si no se ha definido por el widget
+
+label.oauth.help.consumerKey=Identificaci\u00f3n ConsumerKey del cliente
+
+label.oauth.help.consumerSecret=HMAC secreto utilizado por el cliente para firmar las solicitudes (modo HMAC)
+
+label.oauth.help.description=Breve descripci\u00f3n del cliente
+
+label.oauth.help.enabled=Cliente podr\u00e1 acceder a Nuxeo s\u00f3lo si se ha establecido la habiitaci\u00f3n de comunicaci\u00f3n.
+
+label.oauth.help.gadgetUrl=URL del gadget
+
+label.oauth.help.publicKey=Clave p\u00fablica RSA usada por el cliente para firmar la petici\u00f3n (modo RSA)
+
+label.oauth.help.requestTokenURL=URL del token
+
+label.oauth.help.serviceName=Nombre del servicio
+
+label.oauth.help.signedFetchSupport=Define si el consumidor puede utilizar la b\u00fasqueda identificada (dos patas OAuth) para acceder a Nuxeo.
+
+label.oauth.help.userAuthorizationURL=Autorizaci\u00f3n de la URL por el usuario
+
+label.oauth.keyName=Nombre clave
+
+label.ole.title=Objetos integrados
+
+label.on.document=En el documento
+
+label.opensocial.container.add.gadget=A\u00f1adir gadget
+
+label.opensocial.container.change.layout=Dise\u00f1o
+
+label.opensocial.container.confirmRestoreDashboard=Restaurar a valores por defecto?
+
+label.opensocial.container.restore.default=Restaurar a valores por defecto
+
+label.operations=Operaciones
+
+label.outputFile.directEdit=Editar online
+
+label.outputFile.download=Descargar
+
+label.package.listing.noPackage=Ning\u00fan paquete
+
+label.package.listing.noPackage=Ning\u00fan paquete disponible en su selecci\u00f3n
+
+label.packagetype.addon=Add-on
+
+label.packagetype.all=Todos
+
+label.packagetype.hotfix=Parche
+
+label.packagetype=Tipo de paquete
+
+label.packagetype.studio=Estudio
+
+label.page.add.tags=A\u00f1adir etiquetas
+
+label.page.comments.add=A\u00f1adir comentario
+
+label.page.comments.title=Comentarios
+
+label.page.content=Contenido
+
+label.page.description=Descripci\u00f3n
+
+label.page.format=Formato
+
+label.page.format.richtext=Texto enriquecido
+
+label.page.format.wikitext=Texto Wiki
+
+label.page.push=Mostrar esta p\u00e1gina en el men\u00fa WebView
+
+label.page.push.no=No
+
+label.page.push.yes=S\u00ed
+
+label.page.title=T\u00edtulo
+
+label.parameters.saved=configuraci\u00f3n guardada.
+
+label.pdf.openOffice.error=Error en la comunicaci\u00f3n con el servidor OOo
+
+label.pdf.openOffice.refresh=volver a probar el servidor OOo
+
+label.pdf.openOffice.setup=m\u00e1s informaci\u00f3n sobre la configuraci\u00f3n de OOo
+
+label.performedAction=Acci\u00f3n ejecutada
+
+label.permalink=[Link permanente a este documento]
+
+label.perspective.local.notSpecified=No especificado
+
+label.picturebook.download=Descargar
+
+label.picture.byline=Firma
+
+label.picture.caption=Captura
+
+label.picture.credit=Cr\u00e9dito
+
+label.picture.dateline=Lugar y fecha
+
+label.picture.download=Descargar im\u00e1genes
+
+label.picture.download.header=Seleccione el tama\u00f1o necesario:
+
+label.picture.genre=G\u00e9nero
+
+label.picture.header.maxsize=Tama\u00f1o m\u00e1ximo
+
+label.picture.header.tag=Etiqueta
+
+label.picture.headline=Encabezado
+
+label.picture.language=Idioma
+
+label.picture.origin=Origen
+
+label.picture.slugline=Slugline
+
+label.picture.source=Fuente
+
+label.picture.subheadline=Subt\u00edtulo
+
+label.picture.timeinterval=Intervalo de tiempo
+
+label.picture.typage=P\u00e1gina tipo
+
+label.picture.upload.error=No se admite este formato de imagen.
+
+label.picture.upload=Subir
+
+label.picture.views=Vistas
+
+label.print=Imprimir
+
+label.productionState.production_ready=Producci\u00f3n lista
+
+label.productionState.proto=Prototipo
+
+label.productionState.testing=Pruebas
+
+label.publication.tree.local.sections=Secciones Locales
+
+label.publication.tree.not.available=El \u00e1rbol de la publicaci\u00f3n no est\u00e1 disponible
+
+label.publish.add.section=A\u00f1adir secci\u00f3n
+
+label.publish.header.action.unpublish=Despublicar
+
+label.publish.header.title=Secci\u00f3n
+
+label.publish.header.version=Versi\u00f3n actual
+
+label.publishing.accept=Publicar
+
+label.publishing.reject=Rechazar
+
+label.publishing.reject.user.comment.mandatory=Introduzca un comentario
+
+label.publishing.title=Publicaci\u00f3n
+
+label.publishing.user.comment=Comentario
+
+label.publish.noversions.available=No hay versiones disponibles para el documento actual
+
+label.publish.publish=Publicar aqu\u00ed
+
+label.publish.sections=Secciones
+
+label.publish.selected.sections.empty=Selecci\u00f3n vac\u00eda
+
+label.publish.selected.sections=Secciones seleccionadas
+
+label.refresh=Actualizar
+
+label.relation.addPath=A\u00f1adir una ruta
+
+label.relation.already.exists=Esta relaci\u00f3n ya existe
+
+label.relation.comment=Comentario
+
+label.relation.created=Relaci\u00f3n creada
+
+label.relation.deleted=Relaci\u00f3n borrada
+
+label.relation.document.not.visible=El documento referenciado no es visible
+
+label.relation.noRelation=No hay relaciones definidas
+
+label.relation.object.documentUid=Documento
+
+label.relation.object=Objeto relacionado
+
+label.relation.object.text=Texto
+
+label.relation.object.uri=URI
+
+label.relation.search.all_words.info=La b\u00fasqueda de texto sin formato tambi\u00e9n busca dentro de los documentos (MS Office, PDF, ...)
+
+label.relation.search.all_words=Palabras requeridas
+
+label.relation.search.path=Ruta
+
+label.relation.search.popup.title=B\u00fasqueda de documento emergente
+
+label.relation.search.title.info=El car\u00e1cter para reemplazar es %, no *
+
+label.relation.search.title=T\u00edtulo
+
+label.relation.subject=Sujeto
+
+label.relation.unknown.document.uid=Documento desconocido
+
+label.rendition.not.defined=Esta interpretaci\u00f3n no se define
+
+label.rendition.pdf=PDF
+
+label.restart.confirm=\u00bfReiniciar el servidor ahora?
+
+label.restart.connectedusers=Usuario(s) conectado actualmente
+
+label.results.noMatchingDocument=No se pudo encontrar ning\u00fan documento coincidente
+
+label.results.noMatchingEntity=No se pudo encontrar ninguna entidad coincidente
+
+label.review.abandon.workflow=Abandonar proceso
+
+label.review.added.reviewer=Participantes a\u00f1adidos al proceso
+
+label.review.cancel.process=Cancelar
+
+label.review.choose.reviewer=Seleccionar revisores
+
+label.review.confirmDeleteTask=\u00bfBorrar la tarea?
+
+label.review.create.task=Crear tarea
+
+label.review.directive=Directiva
+
+label.review.duedate=Fecha de finalizaci\u00f3n
+
+label.review.end.task=Aprobar
+
+label.review.fillup.information=Por favor, rellene el siguiente formulario
+
+label.review.insertionLevel=Nivel de inserci\u00f3n
+
+label.review.insertionLevelOption.belowCurrentLevel=Por debajo del nivel actual
+
+label.review.insertionLevelOption.currentLevel=NIvel actual (El participante ser\u00e1 sustituido).
+
+label.review.lifecycle.noChange=Sin cambios
+
+label.review.list.added=Lista cargada
+
+label.review.list.chooseaname=Por favor, elija un nombre
+
+label.review.list.created=Lista guardada
+
+label.review.list.delete=Borrar
+
+label.review.list.deleted=Lista eliminada
+
+label.review.list.load=Cargar
+
+label.review.list.load.title=Cargue una definici\u00f3n de ruta
+
+label.review.list.notselected=Por favor, seleccione una lista
+
+label.review.list.save=Guarde la definici\u00f3n de ruta
+
+label.review.movedDown.reviewer=Participante(s) bajados
+
+label.review.movedUp.reviewer=Participante(s) subidos
+
+label.review.my.tasks=Mis tareas
+
+label.review.my.tasks.help=A\u00f1ade un comentario y pulsa en uno de los enlaces de la tabla superior. Encontrar\u00e1s todas tus tareas en tu panel personal.
+
+label.review.no.review.started=No hay procesos activos sobre este documento. Usted no est\u00e1 autorizado para iniciar uno.
+
+label.review.out.life.cycle=Estado final tras la revisi\u00f3n
+
+label.review.prop.modification=Modificaci\u00f3n
+
+label.review.prop.version.scheme.none=No hay reglas sobre versiones
+
+label.review.prop.version.scheme=Gesti\u00f3n de versiones
+
+label.review.reject.task=Rechazar
+
+label.review.removed.reviewer=Tarea borrada
+
+label.review.remove.task=Borrar
+
+label.review.right=Derecho
+
+label.review.select.one=Seleccione una de las siguientes opciones
+
+label.review.select.reviewers=Revisores
+
+label.review.start.new=Empezar proceso de revisi\u00f3n
+
+label.review.start=Empezar
+
+label.review.task.ended=Tarea finalizada
+
+label.review.task.enterComment=Introduzca un comentario antes de rechazar
+
+label.review.terminate.workflow=Terminar el proceso
+
+label.review.type=Tipo de revisi\u00f3n
+
+label.review.user.comment=Comentarios
+
+label.review.user.comment.mandatory=Introduzca un comentario.
+
+label.review.username=Usuario
+
+label.review.work.items.lists.delete.one=Borrar
+
+label.review.work.items.lists.do.save=Guardar los participantes del proceso como una nueva lista
+
+label.review.work.items.lists.existing.presets=Listas de participantes
+
+label.review.work.items.lists.load.one=Cargar para este proceso
+
+label.review.work.items.lists=Gesti\u00f3n de participantes en el proceso
+
+label.review.work.items.lists.save.name=Nombre de la nueva lista
+
+label.richtext.format=Formato
+
+label.route.started=Una ruta se inicia desde este documento
+
+label.rss.comments=Comentarios
+
+label.rss.pages=P\u00e1ginas
+
+label.saved.searches=B\u00fasquedas guardadas
+
+label.save.search.description=Para guardar esta b\u00fasqueda, escriba un nombre y confirmar:
+
+label.schema.dublincore=Dublincore
+
+label.schema.uid=Identificador
+
+label.search.administrate=Administrar el Servicio de B\u00fasqueda
+
+label.search.all_words=Palabras requeridas
+
+label.search.and=y
+
+label.search.between=Entre
+
+label.search.column_already_added=Columna ya creada
+
+label.search.criteria=Criterios de b\u00fasqueda
+
+label.search.deleted.documents=Buscar entre los documentos eliminados
+
+label.search.export.excel=Exportar a Excel
+
+label.search.field=Campo
+
+label.search.fieldName=Nombre del campo
+
+label.search.form.desc=La b\u00fasqueda engloba tambi\u00e9n el contenido del documento (MS-Office, PDF, etc.).
+
+label.search.form.enterNXQL=Realizar una b\u00fasqueda basada en una consulta NXQL (por ejemplo: SELECT * FROM Document)
+
+label.search.form.simple=B\u00fasqueda r\u00e1pida
+
+label.search.no_word=Palabras exclu\u00eddas
+
+label.search.one_word=Al menos una palabra
+
+label.search.operator=Operador
+
+label.search.orderBy=Ordenar por
+
+label.search.orderDirectionAsc=Ascendente
+
+label.search.orderDirectionDesc=Descendente
+
+label.search.orderDirection=Direcci\u00f3n
+
+label.search.permalink=Enlace permanente a esta b\u00fasqueda
+
+label.search.popup.title=Haga clic en un elemento para seleccionarlo
+
+label.search.reindexPath=Desde la ruta
+
+label.search.reindex=Reindexar todo
+
+label.search.resultColumns=Columnas del resultado de la b\u00fasqueda
+
+label.search.results.form=Resultado de la b\u00fasqueda\:
+
+label.search.results.keywords=Resultado de la b\u00fasqueda para las claves:
+
+label.search.results.nxql=Resultado de la b\u00fasqueda para NXQL:
+
+label.search.results=Resultados de la b\u00fasqueda
+
+label.search.saved=La b\u00fasqueda ha sido guardada en tu espacio de trabajo personal
+
+label.search.schema=Esquema
+
+label.search.service.wrong.query=La consulta de b\u00fasqueda no es v\u00e1lida
+
+label.search.value=Valor
+
+label.sections.not.defined=No hay secciones donde pueda publicar por el momento.
+
+label.security.addNewRule=A\u00f1adir un nuevo permiso:
+
+label.security.addToGroup=A\u00f1adir al grupo
+
+label.security.addUsername=A\u00f1adir a la selecci\u00f3n
+
+label.security.block.inehritance=Bloquear la herencia de permisos
+
+label.security.delUsername=Eliminar de la selecci\u00f3n
+
+label.security.deniedPerms=Permisos denegados
+
+label.security.deny=Denegar
+
+label.security.emptysearch=Introducir un criterio de b\u00fasqueda
+
+label.security.emptySearchResults=Ning\u00fan usuario o grupo coincide con el criterio
+
+label.security.grantedPerms=Permisos adjudicados
+
+label.security.grant=Adjudicar
+
+label.security.groupMembers=Miembros del grupo
+
+label.security.groups=Grupos
+
+label.security.inherit=Heredar permisos
+
+label.security.localRights=Permisos locales
+
+label.security.noLocalRights=No se ha definido ning\u00fan permiso de acceso local en el documento actual
+
+label.security.noParentDocumentsRights=Ning\u00fan permiso est\u00e1 siendo heredado desde los documentos padre
+
+label.security.parentDocumentsRights=Permisos heredados
+
+label.security.permission.addChildren=A\u00f1adir hijos
+
+label.security.permission.browse=Navegar
+
+label.security.permission.canAskForPublishing=Solicitar publicaci\u00f3n
+
+label.security.permission.classify=Clasificar
+
+label.security.permission.comment=Comentario
+
+label.security.permission.everything=Gestionar todo
+
+label.security.permission.everythingOnWebcontainer=Gestionar todo
+
+label.security.permission.moderate=Moderar
+
+label.security.permission=Permiso
+
+label.security.permission.readChildren=Leer hijos
+
+label.security.permission.readLifeCycle=Leer ciclo de vida
+
+label.security.permission.readProperties=Leer propiedades
+
+label.security.permission.read=Leer
+
+label.security.permission.readRemove=Borrar
+
+label.security.permission.readSecurity=Leer seguridad
+
+label.security.permission.readWrite=Leer y escribir
+
+label.security.permission.removeChildren=Eliminar hijos
+
+label.security.permission.remove=Eliminar
+
+label.security.permission.restrictedRead=Lectura restringida
+
+label.security.permissions=Permisos
+
+label.security.permission.version=Versi\u00f3n
+
+label.security.permission.writeLifeCycle=Escribir ciclo de vida
+
+label.security.permission.writeOnWebcontainer=Escribir
+
+label.security.permission.writeProperties=Escribir propiedades
+
+label.security.permission.writeSecurity=Escribir seguridad
+
+label.security.permission.write=Escribir
+
+label.security.removeAllMembers=Eliminar todos los miembros
+
+label.security.removeFromGroup=Eliminar del grupo
+
+label.security.reset=Reinicializar permisos
+
+label.security.resetUserList=Vaciar la selecci\u00f3n
+
+label.security.saveNeeded=se han modificado los permisos locales, pero no se han guardado
+
+label.security.save=Guardar permisos
+
+label.security.searchGroups=Buscar grupos
+
+label.security.searchOverFlow=Por favor, afine la b\u00fasqueda
+
+label.security.searchResults=Resultados de la b\u00fasqueda
+
+label.security.search=Buscar usuarios o grupos
+
+label.security.searchUsers=Buscar usuarios
+
+label.security.selectedGroups=Grupos seleccionados
+
+label.security.selectedUserListEmpty=La selecci\u00f3n de usuario est\u00e1 vac\u00eda
+
+label.security.selectedUsersAndGroups=Usuarios y grupos seleccionados
+
+label.security.selectedUsers=Usuarios seleccionados
+
+label.security.users=Usuarios
+
+label.selectDashboardDomain=Seleccione el dominio:
+
+label.selectFileToImport=Seleccionar el archivo que se importar\u00e1
+
+label.selection.availableColumns=Columnas disponibles
+
+label.selection.column.icon_type=Icono/Tipo
+
+label.selection.column.livedit_link=Enlace edit Live
+
+label.selection.column.lock=Bloquear informaci\u00f3n
+
+label.selection.column.title_link=T\u00edtulo con enlace
+
+label.selection.selectedColumns=Columnas seleccionadas
+
+label.selectLocale=Elegir idioma:
+
+label.select.web.workspace.checkbox=Mini-site
+
+label.settings.fullNavigation=Navegaci\u00f3n Simple
+
+label.settings.homePage=P\u00e1gina de inicio
+
+label.settings.language=Idioma
+
+label.settings.pagination=Paginaci\u00f3n
+
+label.settings.vcard.name=Nombre
+
+label.setup.advancedSearch.warning=Utilice este modo s\u00f3lo si realmente sabe lo que est\u00e1 haciendo
+
+label.setup.database.templates=Base de datos
+
+label.setup.httpProxy.type=Tipo de proxy
+
+label.setup.mail.debug=Modo de depuraci\u00f3n
+
+label.setup.mail.from=Correo electr\u00f3nico del remitente
+
+label.setup.mail.pop3.host=Nombre de host para POP3
+
+label.setup.mailservice.password=Contrase\u00f1a para la autenticaci\u00f3n de correo electr\u00f3nico
+
+label.setup.mailservice.user=Usuario para la autenticaci\u00f3n de correo
+
+label.setup.mail.transport.auth=Utilizar la autenticaci\u00f3n de SMTP
+
+label.setup.mail.transport.host=Nombre de host para SMTP
+
+label.setup.mail.transport.password=Contrase\u00f1a SMTP
+
+label.setup.mail.transport.port=N\u00famero de puerto para SMTP
+
+label.setup.mail.transport.username=Nombre de usuario SMTP
+
+label.setup.mail.store.protocol=Protocolo de la tienda por correo
+
+label.setup.mail.transport.protocol=Protocolo de transporte por correo 
+
+label.setup.notconfigurable=Su instalaci\u00f3n actual no permite la configuraci\u00f3n del servidor.
+
+label.setup.nuxeo.bind.address=Host de despliegue
+
+label.setup.nuxeo.conf=Archivo de configuraci\u00f3n
+
+label.setup.nuxeo.data.dir=Directorio de datos
+
+label.setup.nuxeo.db.host=Base de datos de URL de acogida
+
+label.setup.nuxeo.db.max-pool-size=Tama\u00f1o de grupo m\u00e1ximo de la base de datos para las fuentes de datos de Nuxeo
+
+label.setup.nuxeo.db.min-pool-size=Tama\u00f1o de grupo m\u00ednimo de la base de datos para las fuentes de datos de Nuxeo
+
+label.setup.nuxeo.db.name=Nombre de la base de datos
+
+label.setup.nuxeo.db.password=Contrase\u00f1a de la base de datos
+
+label.setup.nuxeo.db.port=Puerto del host de la base de datos
+
+label.setup.nuxeo.db.user=Usuario de la base de datos
+
+label.setup.nuxeo.httpProxy.anonymous=Proxy an\u00f3nimo 
+
+label.setup.nuxeo.httpProxy.authenticated=Proxy autenticado
+
+label.setup.nuxeo.http.proxy.host=Nombre del host
+
+label.setup.nuxeo.http.proxy.login=Iniciar sesi\u00f3n
+
+label.setup.nuxeo.httpProxy.none=Sin proxy
+
+label.setup.nuxeo.http.proxy.password=Contrase\u00f1a
+
+label.setup.nuxeo.http.proxy.port=Puerto
+
+label.setup.nuxeo.log.dir=Directorio de registro
+
+label.setup.nuxeo.notification.eMailSubjectPrefix=prefijo del asunto de notificaciones por correo electr\u00f3nico
+
+label.setup.nuxeo.template.default=Por defecto (H2/bases de datos Derby integradas)
+
+label.setup.nuxeo.template.mssql=Servidor MS SQL
+
+label.setup.nuxeo.template.mysql=MySQL
+
+label.setup.nuxeo.template.oracle=Oracle
+
+label.setup.nuxeo.template.postgresql=PostgreSQL
+
+label.setup.nuxeo.url=URL de la aplicaci\u00f3n 
+
+label.setup.nuxeo.vcs.max-pool-size=Tama\u00f1o de grupo m\u00e1ximo de la base de datos para el repositorio de Nuxeo (VCS)
+
+label.setup.nuxeo.vcs.min-pool-size=Tama\u00f1o de grupo m\u00ednimo de la base de datos para el repositorio de Nuxeo (VCS)
+
+label.setup.org.nuxeo.ecm.instance.description=Descripci\u00f3n de la instancia 
+
+label.setup.org.nuxeo.ecm.instance.name=Nombre de la instancia
+
+label.setup.org.nuxeo.ecm.product.name=Nombre del producto
+
+label.setup.org.nuxeo.ecm.product.version=Versi\u00f3n del producto
+
+label.setup.repository.binary.store=Carpeta compartida para el almac\u00e9n de archivos binarios (modo cl\u00faster)
+
+label.setup.restartNeeded=Es necesario reiniciar el servidor.
+
+label.setup.table.title.dataBase=Informaci\u00f3n de la base de datos
+
+label.setup.table.title.email=Informaci\u00f3n de correo electr\u00f3nico
+
+label.setup.table.title.httpProxy=Proxy HTTP
+
+label.setup.table.title.mainSetup=Informaci\u00f3n principal
+
+label.shibboleth.groupManager.expressionLanguage=Definici\u00f3n
+
+label.signedfetch.dedicatedUser.login=Identif\u00edquese para usar Nuxeo
+
+label.signedfetch.dedicatedUser=Apoyo (uso espec\u00edfico para usuario Nuxeo)
+
+label.signedfetch.none=No permitido (por ejemplo: s\u00f3lo permite a 3 patas)
+
+label.signedfetch.opensocialOwner=Permitido (uso del ID de OpenSocial para el inicio de sesi\u00f3n)
+
+label.signedfetch.opensocialViewer=Permitido (uso del ID de OpenSocial Viewer para el inicio de sesi\u00f3n)
+
+label.site.notunique.title=\u00a1Ya existe un sitio con este t\u00edtulo como url!
+
+label.smart.import=Importaci\u00f3n inteligente
+
+label.smart.import.with.md=Importaci\u00f3n inteligente con meta-datos
+
+label.smart.query.addToQuery=A\u00f1adir
+
+label.smart.query.build.help=Seleccione los criterios de b\u00fasqueda y a\u00f1\u00e1dalos a la solicitud final
+
+label.smart.query.build=Solicitud
+
+label.smart.query.clearQuery=Borrar
+
+label.smart.query.closeParenthesis=Cerrar par\u00e9ntesis
+
+label.smart.query.openParenthesis=Abrir un nuevo par\u00e9ntesis
+
+label.smart.query.operator.AND=Y
+
+label.smart.query.operator.BETWEEN=ENTRE
+
+label.smart.query.operator.CONTAINS=CONTIENE
+
+label.smart.query.operator.\==IGUAL A
+
+label.smart.query.operator.>=MAYOR A
+
+label.smart.query.operator.>\==MAYOR O IGUAL A
+
+label.smart.query.operator.IN=EN
+
+label.smart.query.operator.!\==DIFERENTE A
+
+label.smart.query.operator.<=MENOR
+
+label.smart.query.operator.<\==MENOR O IGUAL A
+
+label.smart.query.operator.LIKE=COMO
+
+label.smart.query.operator.NOT_BETWEEN=NO EST\u00e1 ENTRE
+
+label.smart.query.operator.NOT_CONTAINS=NO CONTIENE
+
+label.smart.query.operator.NOT_IN=NO EST\u00e1 EN
+
+label.smart.query.operator.NOT_LIKE=NO ES COMO
+
+label.smart.query.operator.NOT_STARTSWITH=NO EMPIEZA CON
+
+label.smart.query.operator.OR=O
+
+label.smart.query.operator.STARTSWITH=EMPIEZA CON
+
+label.smart.query.redoChanges=Rehacer
+
+label.smart.query.undoChanges=Deshacer
+
+label.smart.search.form=Formulario de b\u00fasqueda avanzada
+
+label.smart.search.results=Resultados de la b\u00fasqueda avanzada para querySmartFolder=Archivo avanzado
+
+label.step.folder.execution.type=Tipo de ejecuci\u00f3n
+
+label.step.operationIds=Ids de la operaci\u00f3n
+
+label.studio.devmod.desc1=Utilice el bot\u00f3n "Actualizar" cuando quiera actualizar el plugin Studio con lo que est\u00e1 configurando actualmente en Studio.
+
+label.studio.devmod.desc2=El bot\u00f3n de actualizaci\u00f3n va a cambiar en la instancia de Nuxeo la versi\u00f3n de su plugin Studio con uno nuevo que incluye la \u00faltima configuraci\u00f3n realizada en Studio.
+
+label.studio.devmod.desc3=La mayor\u00eda de las caracter\u00edsticas configuradas en Studio no necesitan reiniciar el servidor, as\u00ed puede poner a prueba de inmediato su nueva configuraci\u00f3n.
+
+label.studio.devmod.title=Desarrollo y modo de configuraci\u00f3n
+
+label.studio.latest.config=con la \u00faltima configuraci\u00f3n realizada en Nuxeo Studio o
+
+label.studio.prodmod.desc1=Si ha marcado una versi\u00f3n de su plug-in
+
+label.studio.prodmod.desc2=puede instalar una versi\u00f3n etiquetada, que es la forma recomendada para una instancia de producci\u00f3n
+
+label.studio.prodmod.tagLink=leer c\u00f3mo etiquetar su Studio plugin
+
+label.studio.prodmod.title=Modo de producci\u00f3n
+
+label.studio.refresh=Actualizar la siguiente lista
+
+label.studio.tagged.version=con los paquetes etiquetados de Nuxeo Studio 
+
+label.studio.update.inprogress=Actualizaci\u00f3n en curso de Studio:
+
+label.studio.update.lastStatus=\u00daltima actualizaci\u00f3n en Nuxeo Studio:
+
+label.studio.update.title.versionmode=Disponibles Paquetes de Studio en el Site Nuxeo Connect (s\u00f3lo versiones etiquetadas)
+
+label.studio.update=Actualizaci\u00f3n de su plataforma
+
+label.subscribed.to=Suscrito
+
+label.subscriptions.subscribe=Suscribir
+
+label.subscriptionStatus.expired=Su suscripci\u00f3n a Connect ha caducado.
+
+label.subscriptionStatus.no_contract=No se puede encontrar un contrato de conexi\u00f3n asociado
+
+label.subscriptionStatus.not_started=La suscripci\u00f3n a Connect no se ha iniciado
+
+label.subscriptionStatus.ok=El registro en Connect est\u00e1 Aceptado
+
+label.subscriptionStatus.unknown=Desconocida
+
+label.subscriptionStatus.wrong_dates=Su suscripci\u00f3n a Connect no est\u00e1 correctamente instalada (por favor, contacte con soporte)
+
+label.subscriptions.unsubscribe=Anular suscripci\u00f3n
+
+label.suggestion.custom.addUser=A\u00f1adir
+
+label.suggestion.custom.user=A\u00f1adir nombre de usuario personalizado
+
+label.suggestion.help.minChars.end=caracter(es)
+
+label.suggestion.help.minChars.start=Para empezar a buscar, escriba al menos
+
+label.suggestion.help.minChars=Para iniciar la b\u00fasqueda, por favor escriba al menos {0} caracter(es)
+
+label.suggestion.noSearchResults=No hay resultados
+
+label.suggestion.noSearchResultsOrSearchOverflow=No hay resultados de b\u00fasqueda
+
+label.summary.by=por
+
+label.summary.comments=Comentarios ({0})
+
+label.summary.customActions=Acciones personalizadas
+
+label.summary.download.attachments=Ficheros adjuntos
+
+label.summary.download.file=Archivo principal
+
+label.summary.edit=Modificar
+
+label.summary.lastComments=\u00daltimos comentarios
+
+label.summary.lastModified=\u00daltima modificaci\u00f3n
+
+label.summary.locked.intro=Este documento est\u00e1
+
+label.summary.locked=bloqueado
+
+label.summary.publication=Secciones de publicaci\u00f3n
+
+label.summary.rank.title=Clasificaci\u00f3n
+
+label.summary.relations.header=Este documento...
+
+label.summary.relations.title=Relaciones
+
+label.summary.restoreDeletedDocument=Recuperar documento
+
+label.summary.the=el
+
+label.summary.unlocked=desbloqueado
+
+label.sync.clientIP=IP
+
+label.sync.clientPort=Puerto
+
+label.sync.password=Contrase\u00f1a
+
+label.sync.username=Nombre de usuario
+
+label.tab.applisting.marketplace=Visite Nuxeo Marketplace para ver la colecci\u00f3n de paquetes o inst\u00e1lalos directamente desde la lista de abajo.
+
+label.tab.studio.intro=Descubre Nuxeo Studio, la herramienta de configuraci\u00f3n visual que le permite aprovechar todo el poder de configuraci\u00f3n de los productos Nuxeo
+
+label.templates.createFrom=Plantilla en la que se basa la creaci\u00f3n
+
+label.templates.none=Ninguno
+
+label.theme.local.notSpecified=No especificado
+
+label.theme.local.page=P\u00e1gina
+
+label.theme.local.perspective=Perspectiva
+
+label.theme.local.theme=Tema
+
+label.themes.management.description=Nuxeo Theme es el editor de temas en l\u00ednea de Nuxeo que te permite editar, personalizar y crear estilos para su aplicaci\u00f3n.
+
+label.themes.management.editor=Iniciar Nuxeo Theme
+
+label.timerange.10h=10 horas
+
+label.timerange.10m=10 minutos
+
+label.timerange.11h=11 horas
+
+label.timerange.12h=12 horas
+
+label.timerange.1d=1 d\u00eda
+
+label.timerange.1h=1 hora
+
+label.timerange.20m=20 minutos
+
+label.timerange.2d=2 d\u00edas
+
+label.timerange.2h=2 horas
+
+label.timerange.2w=2 semanas
+
+label.timerange.30m=30 minutos
+
+label.timerange.3d=3 d\u00edas
+
+label.timerange.3h=3 horas
+
+label.timerange.3w=2 semanas
+
+label.timerange.4d=4 d\u00edas
+
+label.timerange.4h=4 horas
+
+label.timerange.4w=4 semanas
+
+label.timerange.5d=5 d\u00edas
+
+label.timerange.5h=5 horas
+
+label.timerange.5m=5 minutos
+
+label.timerange.5w=5 semanas
+
+label.timerange.6d=6 d\u00edas
+
+label.timerange.6h=6 horas
+
+label.timerange.7d=7 d\u00edas
+
+label.timerange.7h=7 horas
+
+label.timerange.8h=8 horas
+
+label.timerange.9h=9 horas
+
+label.timerange.all=Todo el tiempo
+
+label.time=Hora
+
+label.title=T\u00edtulo
+
+label.tree=Men\u00fa
+
+label.uid.major_version=Versi\u00f3n Mayor
+
+label.uid.minor_version=Versi\u00f3n Menor
+
+label.uid.uid=Uid
+
+label.upload.files.download=Sube tus archivos
+
+label.upload.package=Cargar un paquete
+
+label.userClassificationRoots=Mis \u00e1rboles de clasificaci\u00f3n
+
+label.user.dashboard=Mi tablero personal
+
+label.userinfo.firstName=Nombre
+
+label.userinfo.lastName=Apellido
+
+label.userinfo.username=Nombre de usuario
+
+label.userManager.company=Nombre de la Compa\u00f1\u00eda
+
+label.userManager.confirmDeleteGroup=\u00bfEliminar Grupo?
+
+label.userManager.confirmDeleteUser=\u00bfEliminar Usuario?
+
+label.userManager.createUser=Crear Usuario
+
+label.userManager.editUser=Editar
+
+label.userManager.emptyUserList=El usuario buscado no existe
+
+label.userManager.emptyUsername=El nombre de usuario no puede estar vac\u00edo
+
+label.userManager.firstName=Nombre
+
+label.userManager.lastName=Apellidos
+
+label.userManager.password.changed=Contrase\u00f1a cambiada
+
+label.userManager.password.not.match=Las contrase\u00f1as no coinciden
+
+label.userManager.password=Contrase\u00f1a
+
+label.userManager.retypePassword=Teclee de nuevo la contrase\u00f1a
+
+label.userManager.userGroups=Grupos para el usuario
+
+label.userManager.userName=Nombre de usuario
+
+label.userManager.users=Usuarios
+
+label.userManager.user=Usuario
+
+label.userManager.userVirtualGroups=Grupos virtuales para este usuario
+
+label.userManager.viewUser=Ver
+
+label.userManager.wrong.username=El nombre de usuario s\u00f3lo puede contener letras y n\u00fameros
+
+label.username=Nombre de usuario
+
+label.user.processes=Abajo se est\u00e1n listando los flujos de trabajo que actualmente est\u00e1s administrando
+
+label.user.saved.searches=Tus b\u00fasquedas
+
+label.userSession.duration=Duraci\u00f3n de la sesi\u00f3n
+
+label.userSession.inactivity=Tiempo de inactividad
+
+label.userSession.lastActivity=\u00daltima actividad
+
+label.userSession.lastUrl=\u00daltima url consultada 
+
+label.userSession.login=Iniciar sesi\u00f3n
+
+label.userSession.requests=P\u00e1ginas visitadas
+
+label.usersettings.tab.empty=La categor\u00eda actual s\u00f3lo ha ocultado providers.user.center.profile=Perfil
+
+label.useTemplate=\u00bfUsar una plantilla?
+
+label.validationState.inprocess=En proceso
+
+label.validationState.none=Ninguno
+
+label.validationState.nuxeo_certified=Certificado Nuxeo 
+
+label.validationState.primary_validation=Validaci\u00f3n primaria
+
+label.versioning.createSnapshot=Crear captura de documento
+
+label.versioning.currentVersion=Versi\u00f3n actual
+
+label.versioning.documentVersioning=Versiones del documento
+
+label.versioning.option.inc_major=Incrementar la versi\u00f3n mayor
+
+label.versioning.option.inc_minor=Incrementar la versi\u00f3n menor
+
+label.versioning.option.no_inc=Omitir el incremento de versi\u00f3n
+
+label.versioning.selectVersioningOption=Aumentar versi\u00f3n
+
+label.version=Versi\u00f3n
+
+label.vocabulary.cleared.confirmDeleteVocabulary=\u00bfEliminar las entradas de directorio seleccionadas?
+
+label.vocabulary.entry.confirmDelete=\u00bfBorrar entrada del vocabulario?
+
+label.vocabulary.entry.id=ID
+
+label.vocabulary.entry.id.value=Valor de identificaci\u00f3n de la entrada
+
+label.vocabulary.entry.label=Etiqueta
+
+label.vocabulary.entry.obsolete=Obsoleto
+
+label.vocabulary.entry.order=Orden
+
+label.vocabulary.entry.parent=Padre
+
+label.vocabulary.name=Nombre del vocabulario
+
+label.vocabulary.obsolete.no=No
+
+label.vocabulary.obsolete.yes=S\u00ed
+
+label.vocabulary.select=Seleccione vocabulario:
+
+label.vocabulary.selectValue=Seleccione un valor
+
+label.webContainer=WebContainer
+
+label.webpage.creation.date=Creado
+
+label.webpage.modification.date=Modificado
+
+label.widget.blog.accept_comment=Comentario aceptado
+
+label.widget.blog.accept_trackback=Trackback aceptado
+
+label.widget.blog.akismet_id=Identificador Akismet
+
+label.widget.blogcontainer.baseline=Baseline
+
+label.widget.blogcontainer.email=Correo electr\u00f3nico
+
+label.widget.blogcontainer.isWebContainer=Contenedor web
+
+label.widget.blogcontainer.logo=Logo
+
+label.widget.blogcontainer.moderationType=Tipo de moderaci\u00f3n 
+
+label.widget.blogcontainer.name=Nombre del blog
+
+label.widget.blogcontainer.template=Plantilla del sitio
+
+label.widget.blogcontainer.theme=Tema
+
+label.widget.blogcontainer.url=URL del blog
+
+label.widget.blogcontainer.useCaptcha=Captcha
+
+label.widget.blogcontainer.welcomeMedia=Bienvenido Animaci\u00f3n/Imagen
+
+label.widget.blogcontainer.welcomeText=Texto de Bienvenida
+
+label.widget.blog.feedburner_id=Identificador de la placa de alimentaci\u00f3n
+
+label.widget.blog.google_analytics_id=Identificador de Google Analytics 
+
+label.widget.blogpost.accept_trackback=Trackback aceptado
+
+label.widget.blogpost.atomid=Identificador Atom
+
+label.widget.contextualLink.description=Descripci\u00f3n
+
+label.widget.contextualLink.link=Enlace
+
+label.widget.contextualLink.name=Nombre
+
+label.widget.document_routing_route_content.dr_listing_add_step=A\u00f1adir Pasos
+
+label.widget.document_routing_route_content.dr_listing_remove_step=Eliminar paso
+
+label.widget.document_routing_route_content.dr_listing_route_element_state=Estado
+
+label.widget.document_routing_route_content.dr_listing_step_actions=Acciones
+
+label.widget.entity_heading.altnames=Tambi\u00e9n conocido como
+
+label.widget.entity_heading.depiction=Representaci\u00f3n
+
+label.widget.entity_heading.entityType=Tipo de entidad
+
+label.widget.entity_heading.name=Nombre
+
+label.widget.entity_heading.summary=Resumen
+
+label.widget.exif_info.date_time_original=Fecha
+
+label.widget.exif_info.equipment=Equipo
+
+label.widget.exif_info.exposure_time=Tiempo de exposici\u00f3n
+
+label.widget.exif_info.fnumber=n\u00famero F
+
+label.widget.exif_info.iso_speed_ratings=ISO
+
+label.widget.exif_info.orientation=Orientaci\u00f3n
+
+label.widget.exif_info.pixel_xdimension=Ancho
+
+label.widget.exif_info.pixel_ydimension=Altura
+
+label.widget.iptc_info.by_line=Por l\u00ednea
+
+label.widget.iptc_info.by_line_title=Por l\u00ednea de t\u00edtulo
+
+label.widget.iptc_info.caption=Subt\u00edtulo
+
+label.widget.iptc_info.category=Categor\u00eda
+
+label.widget.iptc_info.city=Ciudad
+
+label.widget.iptc_info.copyright_notice=Derechos de autor
+
+label.widget.iptc_info.country_or_primary_location=Pa\u00eds
+
+label.widget.iptc_info.credit=Cr\u00e9dito
+
+label.widget.iptc_info.date_created=Fecha de creaci\u00f3n
+
+label.widget.iptc_info.headline=Titular
+
+label.widget.iptc_info.keywords=Palabras clave
+
+label.widget.iptc_info.object_name=Nombre del objeto
+
+label.widget.iptc_info.original_transmission_ref=Referencia de emisi\u00f3n original
+
+label.widget.iptc_info.originating_program=Programa desarrollado
+
+label.widget.iptc_info.province_or_state=Provincia/Estado
+
+label.widget.iptc_info.release_date=Fecha de salida
+
+label.widget.iptc_info.source=Fuente
+
+label.widget.iptc_info.special_instructions=Instrucciones especiales
+
+label.widget.iptc_info.supplemental_categories=Categor\u00edas suplementarias
+
+label.widget.iptc_info.writer=Escritor
+
+label.widget.organization.dissolutionDate=Fecha de disoluci\u00f3n
+
+label.widget.organization.inceptionDate=Fecha de implantaci\u00f3n
+
+label.widget.person.birthDate=Fecha de nacimiento
+
+label.widget.person.deathDate=Fecha de fallecimiento
+
+label.widget.place.latitude=Latitud
+
+label.widget.place.longitude=Longitud
+
+label.widget.shibboleth.expressionLanguage=Definici\u00f3n
+
+label.widget.shibboleth.groupName=Nombre del grupo
+
+label.widget.webcontainer.baseline=Baseline
+
+label.widget.webcontainer.email=Correo electr\u00f3nico
+
+label.widget.webcontainer.isWebContainer=Contenedor Web
+
+label.widget.webcontainer.logo=Logo
+
+label.widget.webcontainer.moderationType=Moderaci\u00f3n Tipo
+
+label.widget.webcontainer.moderationType.info=La moderaci\u00f3n es s\u00f3lo sobre los comentarios. Las p\u00e1ginas web no se moderan
+
+label.widget.webcontainer.name=Nombre del sitio
+
+label.widget.webcontainer.template=Plantilla del sitio
+
+label.widget.webcontainer.theme=Tema
+
+label.widget.webcontainer.url=URL del sitio
+
+label.widget.webcontainer.useCaptcha=Captcha
+
+label.widget.webcontainer.welcomeMedia=Bienvenido Animaci\u00f3n/Imagen
+
+label.widget.webcontainer.welcomeText=Texto de Bienvenida
+
+label.widget.webpage.contentRich=Contenido
+
+label.widget.webpage.contentWiki=Contenido
+
+label.widget.webpage.pushtomenu=Mostrar esta p\u00e1gina en el men\u00fa WebView
+
+label.wiki=Wiki
+
+label.workflow.activeWorkflows=Procesos activos
+
+label.workflow.assignTask=Asignar a
+
+label.workflow.completeTask=Terminar tarea
+
+label.workflow.currentLifeCycleState=Estado del ciclo de vida
+
+label.workflow.error.outdated_duedate=Se ha sobrepasado la fecha de vencimiento.
+
+label.workflow.lifeCycleInformation=Ciclo de vida
+
+label.workflow.lifeCyclePolicy=Ciclo de vida
+
+label.workflow.name=Nombre
+
+label.workflow.noProcesses=Este documento no forma parte de ning\u00fan proceso en este momento.
+
+label.workflow.processesTitle=Procesos
+
+label.workflow.review.task.list.empty=El proceso no tiene tareas.
+
+label.workflow.review.task.list=Proceso
+
+label.workflow.selectProcessInstanceToDelete=Seleccione uno o varios procesos
+
+label.workflow.select=Selecci\u00f3n
+
+label.workflow.start=Comenzar el proceso
+
+label.workflow.stopProcess=Parar el proceso
+
+label.workflow.task.actorId=Actor
+
+label.workflow.task.=Validar el documento
+
+label.workflow.task.choose-participant=Elija los revisores
+
+label.workflow.task.Creator=Iniciador del proceso de revisi\u00f3n
+
+label.workflow.task.Description=Descripci\u00f3n
+
+label.workflow.task.directive=Directiva
+
+label.workflow.task.documentLocation=Documento relacionado
+
+label.workflow.task.duedate=Fecha estimada
+
+label.workflow.task.DueDate=Vencimiento
+
+label.workflow.task.enddate=Fecha de fin
+
+label.workflow.task.endDate=Finalizaci\u00f3n
+
+label.workflow.task.moderate=Moderar el documento
+
+label.workflow.task.Name=Nombre
+
+label.workflow.task.name=Nombre de la tarea
+
+label.workflow.task.org.nuxeo.ecm.platform.publisher.jbpm.CoreProxyWithWorkflowFactory=Publicar documento
+
+label.workflow.task.org.nuxeo.ecm.platform.publisher.task.CoreProxyWithWorkflowFactory=Publicar documento
+
+label.workflow.task.org.nuxeo.ecm.platform.publishing.jbpm.JbpmPublisher=Publicar documento
+
+label.workflow.task.principal=Usuario
+
+label.workflow.task.right=Derecho
+
+label.workflow.tasks.assignTo=O asignar a
+
+label.workflow.task.startdate=Fecha de inicio
+
+label.workflow.task.startDate=Fecha de inicio
+
+label.workflow.task.start=
+
+label.workflow.tasks=La siguiente tabla muestra todas las tareas que se han solicitado para realizar una operaci\u00f3n
+
+label.workflow.task.validate-after-reject=Validar el documento tras rechazarlo
+
+label.workflow.task.validate=Validar el documento
+
+label.workflow.task.validated=Validado
+
+label.workflow.variable.participants=Gestionar participantes
+
+label.workflow.workitem.lists.duplicate.name=La lista ya existe. Por favor, elija otro nombre.
+
+label.yes=S\u00ed
+
+lable.documentSuggestion.docNotFoundOrNotVisible=El documento no se encuentra o no es visible
+
+lastName=Apellidos
+
+last.published.pages.comments=comentarios
+
+lifecycle_transition_event=Ciclo de vida del documento actualizado
+
+link_about=Acerca de
+
+link_create_doc=Crear
+
+link_create_group=Crear grupo
+
+link_create_user=Crear usuario
+
+link_create_wiki_page=Crear una p\u00e1gina Wiki
+
+link_create_wikis=Crear un Wiki
+
+link_delete_doc=Eliminar
+
+link_delete_group=Eliminar grupo
+
+link_delete_user=Eliminar usuario
+
+link_help=Ayuda
+
+link_print=Imprimir
+
+link_view=Vista
+
+MailFolder=Carpeta de correo electr\u00f3nico
+
+mainbutton.start.inprogress=Inicio del servidor...
+
+mainbutton.start.text=Inicio
+
+mainbutton.start.tooltip=Inicie el servidor de Nuxeo.
+
+mainbutton.stop.inprogress=Detener el servidor...
+
+mainbutton.stop.text=Detener
+
+mainbutton.stop.tooltip=Detener el servidor de Nuxeo.
+
+Media=Medios
+
+message.add.new.tagging.not.empty=\u00a1Nombre de la etiqueta no puede estar vac\u00edo!
+
+message.add.new.tagging=La etiqueta {0} se ha a\u00f1adi\u00f3 al documento
+
+message.bulkedit.emptyList=Ning\u00fan documento seleccionado para edici\u00f3n en masa
+
+message.error.pdf.openOffice=Ocurri\u00f3 un error durante la generaci\u00f3n de la versi\u00f3n PDF. Por favor, aseg\u00farese de que OpenOffice est\u00e1 correctamente iniciado en el puerto 8100 del servidor con un comando como el siguiente:
+
+message.error.removeRight=No puede denegarse sus propios permisos
+
+message.operation.fails.generic=La operaci\u00f3n solicitada ha fallado
+
+message.remove.tagging=La etiqueta {0} se ha eliminado del documento
+
+message.updated.rights=Permisos de acceso actualizados
+
+message.versioning.editoptionsinfo.auto_increment=La versi\u00f3n ser\u00e1 incrementada autom\u00e1ticamente
+
+message.versioning.editoptionsinfo.no_increment=La versi\u00f3n no ser\u00e1 incrementada
+
+message.versioning.editoptionsinfo.undefined=Opciones de incremento de versi\u00f3n no definidas
+
+mimetype.html=Html
+
+mimetype.text=Texto
+
+mimetype.xml=Xml
+
+misc=Varios
+
+moderation_pending=Esperando aprobaci\u00f3n
+
+moderation_published=Publicado
+
+moderation_rejected=Rechazado
+
+module.admin=Administraci\u00f3n
+
+module.wiki=Wiki
+
+move_impossible=No es posible ejecutar la operaci\u00f3n Mover
+
+move_insuffisant_rights=La operaci\u00f3n Mover no est\u00e1 permitida
+
+n_added_to_worklist_docs=Documento(s) a\u00f1adido(s) al portapapeles
+
+NavigationSettings=Configuraci\u00f3n de navegaci\u00f3n
+
+n_copied_docs=Documento(s) copiado(s)
+
+n_deleted_docs=documento(s) eliminado(s)
+
+new_version_created=Nueva versi\u00f3n guardada
+
+n_forbidden_docs_can_not_delete=El(los) documento(s) no se puede(n) eliminar (permisos insuficientes)
+
+n_locked_docs_can_not_delete=El(los) documento(s) est\u00e1(n) bloqueado(s) y no puede(n) ser eliminado(s)
+
+n_moved_docs=Documentos movidos
+
+Note.description=
+
+note=Nota
+
+Note=Nota
+
+notifications.name.Approbationreviewstarted=Inicio de un proceso de aprobaci\u00f3n
+
+notifications.name.Comments=Comentarios
+
+notifications.name.Creation=Creaci\u00f3n
+
+notifications.name.Modification=Modificaci\u00f3n
+
+notifications.name.Publication=Publicaci\u00f3n
+
+notifications.name.WorkflowChange=Cambio de estado del proceso
+
+n_pasted_docs=Documento(s) pegado(s)
+
+n_published_docs=Documento(s) publicados
+
+n_undeleted_docs=Documentos recuperados
+
+n_unpublished_docs={0} Documento(s) despublicados
+
+obsolete=Obsoleto
+
+OrderedFolder.description=Una carpeta es un directorio en el que se pueden agrupar varios documentos, ya sea mediante su creaci\u00f3n directamente en la carpeta o peg\u00e1ndolos. Los archivos se pueden ordenar de forma manual.
+
+OrderedFolder=Carpeta ordenada
+
+password=Contrase\u00f1a
+
+password.verify=Contrase\u00f1a (Verificar)
+
+pending_publishing=Publicaci\u00f3n
+
+permalink.newTab=Abrir en una nueva pesta\u00f1a
+
+PictureBook.description=Crea un PictureBook para ver tus fotos en miniatura o en una presentaci\u00f3n de diapositivas
+
+picturebook.slideshow.without.pictures=No hay ninguna foto en este PictureBook
+
+Picture.description=Crear im\u00e1genes, cambiar el tama\u00f1o o rotarlas
+
+project=Proyecto
+
+publish_impossible=No es posible ejecutar la operaci\u00f3n Publicar
+
+publishing.approved.with.comment=Publicaci\u00f3n aprobada en {0} ({1}) con el comentario -- {2}
+
+publishing.approved.without.comment=Publicaci\u00f3n aprobada en {0} ({1}) sin comentarios
+
+publishing.done=Publicado en {0} ({1})
+
+publishing.rejected.with.comment=Publicaci\u00f3n rechazada en {0} ({1}) con el comentario -- {2}
+
+publishing.rejected.without.comment=Publicaci\u00f3n rechazada en {0} ({1}) sin comentarios
+
+publishing.waiting=Publicaci\u00f3n a la espera en {0} ({1})
+
+publish.no_section_selected=No se ha seleccionado la secci\u00f3n donde publicar
+
+recent.blogpost.pages.comments=Comentarios sobre
+
+relationNotificationCategory=Relaciones
+
+review=Proceso
+
+Section.description=
+
+SectionRoot.description=Ra\u00edz de las secciones
+
+SectionRoot=Secci\u00f3n ra\u00edz
+
+Section=Secci\u00f3n
+
+Sections=Secciones
+
+selection_contains_non_publishable_docs=Su selecci\u00f3n contiene documentos no publicables
+
+SimpleDocument=Documentos simples
+
+SmartFolder.description=Carpeta de presentaci\u00f3n de los resultados de una consulta inteligentes
+
+status.semantic.analysisPending=Analizando el documento
+
+status.semantic.analysisQueued=Cola para el an\u00e1lisis: {0}/{1}
+
+status.semantic.linkingPending=V\u00ednculado a entitieslabel.smart.query.operator.NOT=NO
+
+status.semantic.linkingQueued=Cola para vincular: {0}/{1}
+
+StepFolder=Bifurcaci\u00f3n
+
+Step=Paso
+
+summary.datadir.label=Directorio de datos:
+
+summary.homedir.label=P\u00e1gina de inicio de Nuxeo:
+
+summary.nuxeoconf.label=Configuraci\u00f3n de Nuxeo:
+
+summary.status.label=Situaci\u00f3n actual del servidor:
+
+summary.url.label=URL de servidor:
+
+SuperDocument=
+
+tab.anonymous.dashboard.management=Gesti\u00f3n del panel de usuario an\u00f3nimo
+
+tab.appstore.local=Paquetes locales
+
+tab.appstore.remote=Paquetes de Nuxeo Marketplace
+
+tab.appstore.studio=Nuxeo Studio
+
+tab.appstore.updates=Actualizaciones de software de Nuxeo 
+
+tab_audits=Auditor\u00edas
+
+tab_backlinks=BackLinks
+
+tab_content=Ver
+
+tab.dashboard.management.anonymous=Panel de usuario an\u00f3nimo 
+
+tab.dashboard.management.default=Panel de usuario por defecto
+
+tab_edit=Editar
+
+tab.nuxeoconnect.status=Estado de registro de Nuxeo Connect 
+
+tab.nuxeoconnect.tickets=Tickets de Nuxeo Connect
+
+tab.oauth.consumers=Clientes
+
+tab.oauth.externalGadgets=Gadgets Externos
+
+tab.oauth.grantedTokenConsumers=Tokens de los clientes
+
+tab.oauth.grantedTokenSP=Tokens de proveedores de servicio
+
+tab.oauth.providers=Proveedores de servicio
+
+tab.oauth.serverkey=Claves del servidor 
+
+tab_permissions=Derechos de Acceso
+
+tab.summary.title=Resumen
+
+tab.sysinfo.binariesInfo=Repositorio de archivos binarios
+
+tab.sysinfo.host=Host
+
+tab.sysinfo.nuxeo=Distribuci\u00f3n Nuxeo 
+
+tab.sysinfo.reposInfo=Estad\u00edsticas del repositorio
+
+tab.sysinfo.reposStats=Estad\u00edsticas del repositorio
+
+tab.sysinfo.setup=Configuraci\u00f3n
+
+tab.themes.management=Temas
+
+tab.useractivity.charts=Gr\u00e1ficas de actividad
+
+tab.useractivity.usersActivity=Eventos
+
+tab.useractivity.usersSessions=Sesiones de usuarios
+
+tab.userregistration.requests=Solicitudes de registro de usuario
+
+tab_versions=Historial
+
+Templates=Plantillas
+
+Thread.description=
+
+Thread=Hilo de discusi\u00f3n
+
+title.advancedsearch.choose.path=Seleccione la ruta de b\u00fasqueda
+
+title.all.webpages=P\u00e1ginas contenidas
+
+title.availableDocumentTypes=Tipos de documentos disponibles
+
+title.availableServers=Servidores disponibles
+
+title.blogsite.archive=Archivo del blog
+
+title.clipboard=Portapapeles
+
+title.comments=Comentarios
+
+title.comments.last=\u00daltimos comentarios
+
+title.contact.creator=P\u00f3ngase en contacto con el autor
+
+title.contextual.links.pages=Enlaces contextuales
+
+title.create.consumer.entry=A\u00f1adir nuevo cliente
+
+title.create.document=Crear un nuevo Documento
+
+title.create.domain=Crear un nuevo Dominio
+
+title.create.entry=A\u00f1adir
+
+title.create.file=Crear un nuevo Archivo
+
+title.createGroup=Nuevo Grupo
+
+title.create.picturebook=Nuevo \u00e1lbum de fotos
+
+title.create.picture=Nueva imagen
+
+title.create.relation=Crear relaci\u00f3n
+
+title.createUser=Nuevo Usuario
+
+title.create.vocabulary.entry=A\u00f1adida una nueva entrada al directorio
+
+title.create.workspace=Crear un nuevo Espacio de trabajo
+
+title.dashboard.sections=Mis secciones
+
+title.dashboard.userDeletedDocuments=Papelera de reciclaje
+
+title.dashboard.userDocuments=Mis documentos
+
+title.dashboard.userProcesses=Tareas iniciadas por mi
+
+title.dashboard.userSites=Mis sitios
+
+title.dashboard.userTasks=Mis tareas
+
+title.dashboard.userWorkspaces=Mis espacios de trabajo
+
+title.dashboard.waitingfor=Mis solicitudes pendientes
+
+title.deleted.blogpost=Esta entrada del blog ha sido borrada previamente, pero todav\u00eda est\u00e1 en la papelera, puede solicitar a su administrador local su restauraci\u00f3n.
+
+title.deleted.page=Esta p\u00e1gina ha sido borrada previamente, pero todav\u00eda est\u00e1 en la papelera, puede solicitar a su administrador local su restauraci\u00f3n.
+
+title.domainSearch=\u00daltimos documentos modificados
+
+title.edit=Editar
+
+title.email.document=Enviar un documento por email
+
+title.imageUpload.form=Insertar una imagen
+
+title.import_admin=Importar
+
+title.last.published.comments=\u00daltimos comentarios publicados
+
+title.last.published.documents=\u00daltimos documentos publicados
+
+title.last.published.pages=\u00daltimas entradas publicadas
+
+title.last.published.pages=\u00daltima p\u00e1ginas publicadas
+
+title.manageGroups=Gesti\u00f3n de Grupos
+
+title.manageMembers=Gesti\u00f3n de Miembros
+
+title.manageUsers=Gesti\u00f3n de Usuarios
+
+title.massedition=Editar campos comunes para los documentos
+
+title.navigationTree=Navegaci\u00f3n
+
+title.picturebook=\u00c1lbum de fotos
+
+title.recent.blogpost.pages=\u00daltimas entradas del blog
+
+title.relation.incoming=Relaciones entrantes
+
+title.relation.outgoing=Relaciones salientes
+
+title.rss.feeds=Feeds RSS
+
+title.search.form=Nuxeo 5 EP\: Formulario de b\u00fasqueda
+
+title.search.results=Resultado de la b\u00fasqueda
+
+title.search.results=Resultado de la b\u00fasqueda
+
+title.site.creator=Contactar
+
+title.sync_admin=Synchronizelabel.layoutDemo.title=Nuxeo Showcase - Plano de Servicio (Formularios y vistas) 
+
+title.tags.cloud.pages=Nube de Tags
+
+title.tag.search.results=Documentos etiquetados
+
+title.tags.pages=Etiquetas
+
+title=T\u00edtulo
+
+title.user_dashboard=Centro de control
+
+title.vocabularies=Vocabularios
+
+title.vocabulary.entries.empty=\u00a1El vocabulario no tiene entradas!
+
+title.vocabulary.entries.error=El vocabulario tiene un n\u00famero de entradas mayor que el l\u00edmite aceptado. Por favor, escoja otro criterio de b\u00fasqueda.
+
+title.vocabulary.entries.search.error=El resultado de la b\u00fasqueda tiene demasiadas entradas, por favor, afine el criterio de b\u00fasqueda.
+
+title.vocabulary.entry.details=Detalles de la entrada
+
+title.webapp.attached.files.attach.action=Adjuntar archivo
+
+title.webapp.attached.files=Archivos adjuntos
+
+title.webapp.attached.files.error.message=\u00a1Tienes que buscar un documento!
+
+tooltip.content.select.all=Seleccionar todo / Deseleccionar todo
+
+true=S\u00ed
+
+UnclassificationDone=Desclasificaci\u00f3n
+
+unpublish.problem=Se ha producido un problema al tratar de retirar el documento seleccionado.
+
+user.center.authorizedApplication=Aplicaciones autorizadas
+
+user.center.authorizedApplication.comfirmRevoke=\u00bfEst\u00e1s seguro que quieres revocar el acceso?
+
+user.center.authorizedApplication.description=Usted ha autorizado las siguientes aplicaciones para acceder a su cuenta de Nuxeo.
+
+user.center.dashboard=Mi panel de control
+
+user.center.noAuthorizedApplication=Usted no ha autorizado todav\u00eda ninguna solicitud para acceder a su cuenta de Nuxeo.
+
+user.center.notification=Notificaciones
+
+user.center.settings=Configuraci\u00f3n de usuario
+
+username=Nombre de usuario
+
+usersettings.description=Notificaci\u00f3n de Ajustes del usuario
+
+usersettings.title=Ajustes del usuario
+
+Vcard=Vcard
+
+vocabulary.cleared=\u00a1El vocabulario ha sido limpiado!
+
+vocabulary.entry.added=\u00a1Entrada del vocabulario a\u00f1adida!
+
+vocabulary.entry.any.selectitem=???
+
+vocabulary.entry.deleted=\u00a1Entrada del vocabulario eliminada!
+
+vocabulary.entry.edited=\u00a1Entrada del vocabulario editada!
+
+vocabulary.entry.identifier.already.exists=El identificador ya existe
+
+vocabulary.entry.not.added=\u00a1Entrada del vocabulario no a\u00f1adida!
+
+vocabulary.entry.not.deleted=\u00a1No se ha podido eliminar la entrada del directorio!
+
+vocabulary.entry.root.selectitem=(ra\u00edz)
+
+WebObject=Objeto Web
+
+WebPage.description=Crear una p\u00e1gina web para su Mini Site
+
+WikiPage.description=Descripci\u00f3n de p\u00e1gina de la Wiki
+
+wizard.cancel=Salir
+
+wizard.next=Siguiente
+
+wizard.prev=Anterior
+
+wizard.terminate=Finalizar
+
+wizard.upload=subir
+
+wizard.workspace.currentLogo=Usar logotipo actual
+
+wizard.workspace.customization=Personalizaci\u00f3n del espacio de trabajo
+
+wizard.workspace.uploadNewLogo=Subir un nuevo logotipo
+
+workflowAbandoned=Proceso abandonado
+
+workflowDirectiveCheck=Chequeo
+
+workflowDirectiveDiffusion=Difusi\u00f3n
+
+workflowDirectiveOpinion=Opini\u00f3n
+
+workflowDirectiveTaskRejected=Verificaci\u00f3n tras rechazo
+
+workflowDirectiveValidation=Validaci\u00f3n
+
+workflowDirectiveVerification=Verificaci\u00f3n
+
+workflowDocumentModificationAllowed=Modificaci\u00f3n autorizada
+
+workflowDocumentModificationNotAllowed=Modificaci\u00f3n no autorizada
+
+workflowDocumentVersioningAuto=Incremento autom\u00e1tico
+
+workflowDocumentVersioningCaseDependent=El usuario decide
+
+workflowDocumentVersioningNoIncrement=No incrementar
+
+workflowEnded=Flujo de proceso terminado
+
+workflowNewProcessStarted=Nuevo proceso iniciado
+
+workflowProcessCanceled=Flujo de trabajo cancelado
+
+workflowProcessEnded=Proceso terminado
+
+workflowStarted=Flujo de proceso iniciado
+
+workflowTaskAssigned=Tarea de flujo de proceso asignada
+
+workflowTaskCompeted=
+
+workflowTaskCompleted=
+
+workflowTaskCreated=
+
+workflowTaskEnded=Tarea de flujo de proceso terminada
+
+workflowTaskRejected=Rechazada
+
+workflowTaskRemoved=Tarea de proceso borrada
+
+workflowTaskStarted=Tarea de flujo de proceso iniciada
+
+workflowTaskUnassigned=Tarea de flujo de proceso no asignada
+
+workingList.clipboard=Portapapeles
+
+workingList.default=Lista de trabajo
+
+Workspace.description=
+
+WorkspaceRoot.description=
+
+WorkspaceRoot=Espacio ra\u00edz de trabajo
+
+Workspaces=Espacios de Trabajo
+
+workspace.wizard.owner.me=Usuario actual
+
+workspace.wizard.owner.user=Otro usuario
+
+workspace.wizard.selectManager=Seleccionar espacio de trabajo del administrador
+
+workspace.wizard.useTemplate=Uso de una plantilla
+
+Workspace=Espacio de trabajo
+
+wf.serialDocumentReview.ParticipantsOnTheReview=Participantes
+label.relation.predicate.ConformsTo=Cumple con
+label.relation.predicate.inverse.ConformsTo=Tiene conformidad con
+label.relation.predicate.inverse.isBasedOn=Sirve de base para
+label.relation.predicate.IsBasedOn=Est\u00e1 basado en
+label.relation.predicate.inverse.References=Es referencia para
+label.relation.predicate.References=Referencia
+label.relation.predicate.inverse.Replaces=Reemplazado por
+label.relation.predicate.Replaces=Sustituye a
+label.relation.predicate.inverse.Requires=Es requerido por
+label.relation.predicate.Requires=Requiere
+label.relation.predicate=Predicado
+label.relation.predicate=Tipo de relaci\u00f3n
+
+wf.serialDocumentReview.SerialDocumentReview=Flujo de aprobaci\u00f3n en serie
+wf.serialDocumentReview.chooseParticipants=Elegir usuarios
+label.route.task.assigned.to=Tarea asignada a
+label.review.duedate=Fecha fin
+label.workflow.task.DueDate=Fecha fin
+label.workflow.task.duedate=Fecha fin
+label.widget.task_step.dueDate=Fecha fin
+label.route.task.due.date=Fecha fin:
+wf.serialDocumentReview.pleaseSelect=Seleccione los usuarios para el flujo de trabajo
+wf.serialDocumentReview.ParticipantsOnTheReview=Usuarios
+label.suggestion.help.minChars=Para iniciar la b\u00fasqueda escriba al menos las 3 primeras letras
+wf.serialDocumentReview.validationOrSimpleReview=Elegir tipo de revisi\u00f3n
+wf.serialDocumentReview.workflowType.simpleReview=Revisi\u00f3n simple
+wf.serialDocumentReview.workflowType.validation=Validaci\u00f3n
+wf.serialDocumentReview.comment=Comentarios
+wf.serialDocumentReview.cancel=Cancelar
+wf.serialDocumentReview.startReview=Empezar flujo de trabajo
+label.document.routing.open.tasks=Tareas pendientes
+label.document.routing.past.steps=Tareas antiguas
+label.document.routing.show.graph=Ver gr\u00e1fica
+label.document.routing.abandon=Abandonar
+label.document.routing.your.tasks=Tareas
+label.document.routing.confirmAbandon=\u00bfAbandonar el proceso de flujo de trabajo?
+label.summary.createdBy=Creado por
+label.people.liked.document=A {0} personas les gusta este documento
+label.document.routing.workflow=Flujos de trabajo
+label.route.started=Flujo de trabajo iniciado por
+action.view.tagging=Etiquetas asociadas
+label.editComment=Editar comentario
+label.editComment.tooltip=Este comentario ser\u00e1 visible en los registros mostrados en la pesta\u00edƒÂ±a "Historial"
+label.dam_common.author=Autor original
+label.dam_common.authoringDate=Fecha de creaci\u00f3n original
+label.summary.actions.more=M\u00e1s
+user.center.profile=Perfil
+user.center.preferences=Preferencias
+user.center.preferences.tab.view=Preferencias
+
+label.version.number=Version {0}
+command.removeSelectedArchivedVersions=Eliminar
+label.nuxeo.notifications.email.document=Enviar documento por correo
+label.subscriptions.follow=Seguir este documento
+label.subscriptions.follow.confirm=Ahora est\u00e1s siguiendo el documento
+label.subscriptions.unfollow=Dejar de seguir este documento
+label.subscriptions.unfollow.confirm=Has dejado de seguir el documento
+label.relation.predicate.inverse.IsBasedOn=Es base de
+label.relation.search.popup.close=Cerrar
+label.relation.deleted.documents=\u00bfBuscar tambi&eecute;n en documentos eliminados?
+feedback.versioning.versionsRemoved=Versione(s) eliminada(s)
+label.versioning.currentVersion.tooltip=Versi\u00f3n actual del documento
+label.versioning.changeVersion.tooltip=If a new version is created, the new archived version will hold the values presented in this form
+label.permalink.title=Compartir el documento
+label.permalink.description=Copiar el enlace y compartir {0}
+label.document.lock=Bloquear
+label.vocabulary.l10n.entry.label.default=Etiqueta por defecto
+label.vocabulary.l10n.entry.label.english=Etiqueta ingl\u00e9s
+label.vocabulary.l10n.entry.label.french=Etiqueta franc\u00e9s
+label.groupManager.groupLabel=Etiqueta de grupo
+label.login.connectionFailed=Error de conexi\u00f3n con la base de datos
+label.footer.answers=Q\u0026A
+mimetype.markdown=Markdown
+label.contentview.export.xl.tooltip=Exportaci\u00f3n en Excel de todas las p\u00e1ginas del listado con los metadatos mostrados como columnas
+label.contentview.export.xl.tooltip.maxSize=Excel export of all pages of the listing \
+(limited to {0} results), with metadata displayed as columns
+label.exportview.xmlExport.tooltip=Displays XML export page in a new window
+label.exportview.pdfExport.tooltip=Renders pdf view of the current page, with document metadata, links to attached files, history,...
+label.exportview.zipExport.tooltip=Returns a zip with XML export and attached files
+label.exportview.zipTreeExport.tooltip=Returns a tree zip with XML export and files
+label.exportview.zipBlobExport.tooltip=Returns a tree zip export of the folder contents (folders, attached files,..)
+label.local.configuration.theme.flavorSelection=Flavor
+label.local.configuration.theme.flavorSelection.help=Refresh the page to see changes after saving.
+label.local.configuration.theme.flavorSelection.noPreviewAvailable=No preview available.
+label.theme.flavor.nuxeo.default=Nuxeo theme
+label.theme.flavor.nuxeo.rainbow=Nuxeo Rainbow theme
+label.import.and.add.to.clipboard = Import and add to Clipboard
+desc.import.and.add.to.clipboard = Import in personal Workspace and add to Clipboard
+label.import.and.add.to.worklist = Import and add to Worklist
+desc.import.and.add.to.worklist = Import in personal Workspace and add to Worklist
+label.smart.import = Importaci\u00f3n inteligente
+desc.smart.import.file = Permitir a Nuxeo seleccionar el tipo de documento apropiado para cada fichero
+label.smart.import.with.md = Importaci\u00f3n inteligente con meta-datos
+desc.smart.import.with.md = Let Nuxeo select the appropriate Document Type for each file and initialize meta-data
+label.dnd.attach = Adjuntar
+desc.dnd.attach = Adjuntar fichero al documento actual
+label.dnd.attachfiles = Adjuntar
+desc.dnd.attachfiles = Adjuntar ficheros al siguiente documento
+command.continue = Continuar
+import.continue = Continuar importando
+label.oauth.consumer.application = La aplicaci\u00f3n
+label.oauth.consumer.accessRequest = requiere acceder a tus datos de Nuxeo.
+label.oauth.consumer.grantQuestion = \u00bfPermitir el acceso?
+label.userprofile.avatar=Avatar
+label.userprofile.birthdate=Fecha de cumplea\u00f1os
+label.userprofile.phonenumber=N\u00famero de tel\u00e9fono
+label.userprofile.gender=Sexo
+label.userprofile.gender.male=Masculino
+label.userprofile.gender.female=Femenenimo
+label.userpreferences.locale=Preferencias de zona
+label.userpreferences.timezone=Zona horaria
+helplabel.userprofile.birthdate=Introduce una fecha de cumplea\u00f1os con el formato "mm/dd/yy". Ej: "10/29/90"
+helplabel.userprofile.avatar=Avatar images greater than 300x200 pixels are resized
+user.center.profile.tab.view=Profile
+label.userPreferences.updateLocale=Edit locale settings
+label.userPreferences.resetTimeZone=Reset time zone from browser
+label.deleted.document=Deleted document:
+label.widget.task_step.actionnable=Create one task per actor
+label.widget.task_step.directive=Directive
+label.widget.task_step.comment=Comment
+label.widget.task_step.automaticValidation=Automatic Validation
+label.action.routingtask=Routing
+label.widget.task_step.createOneTaskPerActors=Create one task per actor
+label.widget.review.life.cycle.transition=Life cycle transition
+label.widget.task_step.publication=Publication target
+label.document.routing.invalid.subject=Invalid property format
+label.document.routing.invalid.operator=This operator is supported only for integer values
+label.widget.route_layout.summary_document_route_action=
+label.widget.route_layout.summary_current_document_single_tasks=
+label.faceted.search=Faceted Search
+label.search.popup.close=Cerrar
+label.search.beforeDate_fsd_dc_created=Documentos creados antes de {0}
+label.search.afterDate_fsd_dc_created=Documentos creados despu\u00e9s de {0}
+label.search.beforeDate_fsd_dc_modified=Documentos modificados antes de {0}
+label.search.afterDate_fsd_dc_modified=Documentos modificados despu\u00e9s de {0}
+label.searchDocumentsByUser_fsd_dc_creator=Documentos por {0}
+label.searchDocumentsByKeyword=Documentos con palabras clave: "{0}"
+label.noSuggestions=Sin sugerencias
+label.main.tab.workflow=Flujos de trabajo
+admcommand.OAuthOpensocial = OAuth / OpenSocial
+tab.oauth.serverkey = Server key
+tab.oauth.providers = Service providers
+tab.oauth.consumers = Consumers
+tab.oauth.externalGadgets = Gadgets externos
+tab.oauth.grantedTokenSP = Proveedores de tokens
+tab.oauth.grantedTokenConsumers = Tokens
+adminsubtab.oauth.externalGadgets = Administraci\u00f3n de gadgets externos
+label.oauth.keyName  = Key Name
+label.oauth.certificate = Certificate
+label.oauth.help.consumerKey = ConsumerKey identifying the consumer
+label.oauth.help.consumerSecret = HMAC secret used by the consumer to sign the requests (HMAC mode)
+label.oauth.help.publicKey = RSA public key used by the consumer to sign the request (RSA mode)
+label.oauth.help.enabled = Consumer will be able to access Nuxeo only if enabled flag is set.
+label.oauth.help.description = Small description of the consumer
+label.oauth.help.signedFetchSupport = Defines if consumer can use signed fetch (2 legged OAuth) to access Nuxeo.
+label.oauth.help.callbackURL = Callback url if not defined by the widget
+label.oauth.help.gadgetUrl =
+label.oauth.help.requestTokenURL =
+label.oauth.help.userAuthorizationURL =
+label.oauth.help.accessTokenURL =
+label.signedfetch.none = Not allowed (i.e.: only support 3 legged)
+label.signedfetch.opensocialViewer = Supported (use OpenSocial viewer id as login)
+label.signedfetch.opensocialOwner = Supported (use OpenSocial owner id as login)
+label.signedfetch.dedicatedUser = Supported (use dedicated Nuxeo user)
+label.signedfetch.dedicatedUser.login = Credenciales de Nuxeo a usar
+label.externalGadgetLayoutAdmin.name=Nombre
+label.externalGadgetLayoutAdmin.label=Etiqueta
+label.externalGadgetLayoutAdmin.enabled=Activo
+label.externalGadgetLayoutAdmin.category=Categor\u00eda
+label.externalGadgetLayoutAdmin.gadgeturl=URL del gadget
+label.externalGadgetLayoutAdmin.iconurl=URL del icono
+title.create.consumer.entry = A\u00f1adir nuevo consumidor
+title.create.entry = A\u00f1adir
+command.refresh = Actualizar
+label.externalGadget.confirmDelete=\u00bfEliminar gadget?
+action.studio.go = Ir a Nuxeo Studio
+tab.appstore.private=Private packages
+adminsubtab.sysinfo.advancedsetup.close=Close advanced setup
+connect.message.registred.problem = Your Nuxeo Connect registration can not be validated.
+label.nuxeo.connect.onlineRegistrationStep2Description = Now that you are authenticated against the connect server, please select the Project that must be associated to your instance.
+action.connect.refreshStatus = Refresh
+label.event.document = Document
+label.studio.devmod.desc=Use the "Update" button when you want to update the \
+platform with the latest configuration saved in Studio.<br /><br />\
+The update button will update, on this Nuxeo instance, the version of your package \
+with a new snapshot that includes the latest configuration generated by Studio.<br />\
+Most of the features configured in Studio do not need the server to be restarted, \
+so you will be able to test immediately the changes you made.<br />\
+However, the development mode needs to be activated first.
+label.studio.cannotUpdate=Nuxeo instance is not registered or Connect server is not reachable: cannot update.
+label.setup.nuxeo.org.nuxeo.dev=Development mode
+label.setup.nuxeo.org.nuxeo.dev.help=The development mode makes it possible for you to hot-reload Studio jars from the admin center. \
+It also enables refresh of some caches (templates, translation bundles...) that are useful to developers, but that should not be activated \
+on a production server.
+label.setup.nuxeo.org.nuxeo.dev.modeOn.option=On
+label.setup.nuxeo.org.nuxeo.dev.modeOff.option=Off
+label.setup.nuxeo.org.nuxeo.dev.modeOn=Development mode is on.
+label.setup.nuxeo.org.nuxeo.dev.modeOff=Development mode is off.
+label.setup.nuxeo.org.nuxeo.dev.activateDevMode=Enable
+label.setup.nuxeo.org.nuxeo.dev.disableDevMode=Disable
+label.setup.nuxeo.org.nuxeo.dev.restartWarning=You will have to restart the server for the change to be fully effective.
+label.setup.nuxeo.org.nuxeo.dev.changingDevModeNotConfigurable=The development mode cannot be changed on this server.
+label.admin.center.devMode.justActivated=The development mode has been activated.
+label.admin.center.devMode.justDisabled=The development mode has been disabled.
+label.admin.center.devMode.errorSaving=An error occured while changing the mode: {0}
+label.studio.update.status.noStatus=no previous package installation.
+label.studio.update.status.downloading=downloading... {0} %
+label.studio.update.status.saving=saving...
+label.studio.update.status.installing=installing...
+label.studio.update.status.error=ERROR: {0}
+label.studio.update.status.completed=last update completed at: {0}.
+label.studio.update.status.restartNeeded=last update completed at: {0}, restart needed!
+label.studio.update.error.noSnapshotPackageFound=No snapshot package found
+label.studio.update.downloading.error=Problem while downloading package: {0}
+label.studio.update.installation.error=Problem while installing package: {0}
+label.studio.prodmod.desc=If you have tagged a version of your plugin \
+you can install a tagged version, which is the recommended way for a production instance.
+
+label.setup.database.check.button=Check database parameters
+label.setup.mail.store.host=Host name for store
+label.setup.mail.store.port=Port number for store
+label.setup.mail.store.user=User name for store
+label.setup.mail.store.password=Password for store
+label.setup.mail.store.host=Password for store
+label.setup.mail.transport.user=User name for transport
+label.setup.mail.transport.usetls=Is TLS used for transport connection
+label.setup.mail.user=User who will receive mail (ignored in Nuxeo)
+error.db.driver.notfound = Database driver not found. Check the appropriate JAR file is present in the corresponding chosen database template or in the server lib directory.
+error.db.connection = Failed to connect on database. Check the database is running and the parameters are correct.
+error.db.fs = System error, look at the server logs.
+error.db.none = No database error detected, the parameters looks fine.
+adminsubtab.usersActivity.userSessions.total = N\u00famero total de sesiones HTTP activas
+adminsubtab.usersActivity.requests.total = Total number of HTTP requests
+adminsubtab.usersActivity.userSessions.timerange = Lista de sesiones activas
+adminsubtab.usersActivity.charts.eventMonitoring = Eventos recientes del repositorio
+adminsubtab.usersActivity.charts.httpMonitoring = Actividad HTTP
+label.themes.management.migrationWarning=Since Nuxeo 5.5, default themes \
+do not rely on the theme editor for CSS styling: customizing a default theme \
+using the online editor is not recommended. Please \
+refer to the <a href="http://doc.nuxeo.com/x/AYSN" target="_blank">documentation</a> \
+for more information.
+label.updatecenter.disabled=Update Center feature has been disabled by configuration on this Nuxeo instance.
+label.nuxeo.connect.unregister = Change your connect registration
+action.connect.unregister = Unregister
+label.nuxeo.connect.footer.instance.status = This Nuxeo instance is not registered to Nuxeo Connect: you won't be able to get the most recent fixes and stay up to date.
+label.nuxeo.connect.footer.instance.invitation = Register and enable Nuxeo Connect to benefit from automatic maintenance.
+label.nuxeo.connect.footer.version = Versi\u00f3n de Nuxeo:
+label.nuxeo.connect.footer.helper = Como activar Nuxeo Connect
+label.nuxeo.connect.footer.subscribe = Suscribirme a Nuxeo Connect
+Steps=Pasos
+StepContainers=Contenedores de pasos
+label.document.route.content.header.actors=Actores
+label.route.not.started=No hay ruta iniciada desde este documento
+label.route.info=Flujos de trabajo
+label.document.routing.current.route=Ruta actual
+label.document.routing.route.graph.view = Vista de gr\u00e1fico
+label.document.routing.associated.workflow=Flujo de trabajo asociado
+label.suggestion.help.combo=Comienza a escribir para obtener una lista de posibles coincidencias o presiona 'Abajo' para seleccionar.
+label.start.workflow=Empezar flujo de trabajo en este documento
+label.document.routing.previous.routes=Rutas anteriores
+label.document.routing.pending.tasks=Tareas pendientes
+label.widget.conditional_step_folder.conditional_step_value=Ejecutar siguiente paso
+label.summary.route.locked.intro=La ruta est\u00e1 
+label.summary.route.locked=bloqueada
+label.summary.route.unlocked=desbloqueada
+label.security.permission.validateRoute=Validar ruta
+feedback.casemanagement.document.route.selected_route_duplicated=La ruta seleccionada ha sido duplicada
+feedback.casemanagement.document.route.cant.move.step.before.already.running.step=No se puede cambiar este paso a uno anterior
+feedback.casemanagement.document.route.cant.move.step.after.already.running.step=No se puede cambiar este paso a uno posterior
+label.document.routing.no.workflow=No se puede iniciar un proceso de flujo de trabajo en este documento.
+label.route.task.type={0}:
+label.document.routing.process.task=Proceso
+workflow.feedback.error.taskEnded=Ocurri\u00f3 un error realizando esta tarea
+workflow.feedback.error.tasksEnded=Ocurri\u00f3 un error realizando esta(s) tarea(s)
+workflow.feedback.info.taskEnded=Tarea realizada
+workflow.feedback.info.tasksEnded=Tarea(s) realizada(s)
+label.workflow.taskList.help.selectToShowActions=Selecciona tareas para mostrar las acciones disponibles del flujo de trabajo
+tab.admin.workflow=Flujos de trabajo
+label.admin.workflow.models=Modelos de flujos de trabajo
+wf.serialDocumentReview.DocumentValidation= Validaci\u00f3n de documento
+wf.serialDocumentReview.AcceptReject=Por favor, acepta o rechaza el documento
+wf.serialDocumentReview.InitiatorComment=Comentario inicial
+wf.serialDocumentReview.YourComment=Tu comentario
+wf.serialDocumentReview.Reject=Rechazar
+wf.serialDocumentReview.Validate= Validaci\u00f3n
+wf.serialDocumentReview.updateRequest=Actualizar petici\u00f3n
+wf.serialDocumentReview.updateRequest.directive=El documento ha sido rechazado. Por favor, actualizalo antes de volver al flujo de cancelaci\u00f3n, o cancela la revisi\u00f3n.
+wf.serialDocumentReview.submit=Aceptar cambios
+
+#############################################################################
+# etiquetas no comunes FR-ES: las que hab\u00ed­a en franc\u00e9s y no hab\u00ed­a
+# en espa\u00ed±ol. 
+#############################################################################
+
+eventLifeCycleCategory=Ciclo de vida
+NuxeoAuthentication=Autentificaci\u00f3n
+documentCopied=Copia
+Cancelation event=Evento cancelado
+documentCheckedOut=Documento comprobado
+documentImported=Documento importado
+documentProxyPublished=Documento Proxy publicado
+documentProxyUpdated=Documento Proxy actualizado 
+documentRemoved=Documento eliminado
+documentRestored=Documento restaurado
+loginFailed=Conexi\u00f3n fallida
+loginSuccess=Conectado
+logout=Desconectar
+versionRemoved=Versi\u00f3n eliminada
+label.forum.content.header.last_author=\u00faltimo autor
+label.syndication.rss=RSS
+label.syndication.atom=ATOM
+error.inputFile.emptyFile=Fichero vac\u00ed­o
+label.outputFile.generatePdf=Generar PDF
+command.option.liveedit.preeditaction.Lock=Bloquear el documento?
+label.order.ascending=Ascendente
+label.order.descending=Descendente
+help.command.mass_edition.addworklist=Modificar los documentos en massa
+label.documents.confirmActionBegin=Confirmar acci\u00f3n
+label.documents.confirmActionEnd=?
+label.versioning.versionsManagement=Gesti\u00f3n de versiones
+label.search.form.enterkeywords=B\u00fasqueda por palabras clave
+documents_unpublished=Documento(s) despublicado(s)
+label.vocabulary.entry.value=Valor de la entrada
+label.directories.nature.delivery.note=Albar\u00ed¡n de entrega
+label.workflow.save=Guardar
+label.workflow.edit=Modificar
+label.workflow.documentProcesses=Este documento est\u00e1 asociado a los siguientes workflows
+label.workflow.workflowDefinitionName=Nombre
+label.workflow.workflowDefinitionVersion=Versi\u00f3n
+label.workflow.task.sel=Seleccionar
+label.workflow.task.Identifier=Identificar
+label.workflow.task.StartDate=Fecha de inicio
+backToWork=Vuelta al trabajo
+label.dashboard.task.ended=Â¡La tarea ha sido completada con \u00e9xito!
+label.dashboard.no_task.choosen=Por favor, seleccione una tarea para completar
+label.dashboard.an_error_occurred_server_side=Se ha producido un error. El sistema no pudo terminar la tarea. Por favor, contacte con su administrador.
+label.dashboard.no_task_selected=Por favor, seleccione una tarea.
+label.dashboard.no_principal_selected=Por favor, seleccione un usuario para que complete la tarea.
+label.documentSuggestion.docNotFoundOrNotVisible=El documento no existe o no es visible.
+label.review.task.edited=Tareas modificadas
+label.summary.intro.created=Este documento ha sido creado por {0} el {1}. Es actualmente {2}.
+label.summary.intro.contributor=S\u00f3lo {0} ha editado el documento 
+label.summary.intro.contributors={0} han editado el documento.
+label.summary.intro.modifiedAndVersion=\u00faltima modificaci\u00f3n el {0} en versi\u00f3n {1}.
+label.summary.intro.modified=\u00faltima modificaci\u00f3n el {0}.
+label.summary.intro.locked={0} ha bloqueado el documento.
+label.summary.intro.comments=Hay nuevos comentarios.
+label.summary.download=Descargar
+label.summary.download.other=Otra versi\u00f3n
+label.summary.download.pdf= pdf
+label.summary.publication.none=Documento no publicado.
+label.summary.relations=Este documento tiene relaci\u00f3n con los documentos siguientes.
+label.summary.relations.none=Este documento no tiene relaci\u00f3n con ning\u00fan documento
+label.summary.characteristics.title=Caracter\u00edsticas
+RICH_FILE_UPLOAD_CANCEL_LABEL=Cancelar
+RICH_FILE_UPLOAD_STOP_LABEL=Detener
+RICH_FILE_UPLOAD_ADD_LABEL=Adjuntar...
+RICH_FILE_UPLOAD_UPLOAD_LABEL=Subir
+RICH_FILE_UPLOAD_CLEAR_LABEL=Suprimir
+RICH_FILE_UPLOAD_CLEAR_ALL_LABEL=Borrar la lista
+RICH_FILE_UPLOAD_PROGRESS_LABEL=En curso
+RICH_FILE_UPLOAD_SIZE_ERROR_LABEL=
+RICH_FILE_UPLOAD_TRANSFER_ERROR_LABEL=Error de transferencia.
+RICH_FILE_UPLOAD_ENTRY_STOP_LABEL=Detener
+RICH_FILE_UPLOAD_ENTRY_CLEAR_LABEL=Suprimir
+RICH_FILE_UPLOAD_ENTRY_CANCEL_LABEL=Borrar la lista
+RICH_FILE_UPLOAD_DONE_LABEL=<b>Hecho</b>
+label.aposteriori = A posteriori
+Picture=Imagen
+PictureBook=Libro de im\u00e1genes
+todas las p\u00e1ginas del list\u00edn, con metadatos
+todas las p\u00e1ginas del list\u00edn (l\u00edmite {0} resultados), con metadatos
+RICH_CALENDAR_APPLY_LABEL=Aplicar
+RICH_CALENDAR_TODAY_LABEL=Hoy
+RICH_CALENDAR_CLOSE_LABEL=Cerrar
+RICH_CALENDAR_OK_LABEL=OK
+RICH_CALENDAR_CLEAN_LABEL=Limpiar
+RICH_CALENDAR_CANCEL_LABEL=Anular
+chromeframe.link=Descargar Frame de Google Chrome
+chromeframe.message=Para aprovechar las funcionalidades de Nuxeo, le recomendamos
+admcommand.monitoring = Monitorizar
+tab.monitoring.status = Status administrativo
+tab.monitoring.probes = Prueba
+tab.monitoring.events = Bus de eventos de Nuxeo
+label.monitoring.multiserver = Su aplicaci\u00f3n de Nuxeo tiene varias instancias.
+label.monitoring.instanceList =  Lista de instancias de Nuxeo:
+label.monitoring.monoserver = Su aplicaci\u00f3n de Nuxeo tiene una sola instancia.
+label.monitoring.status.label = Etiqueta
+label.monitoring.status.serviceId = Service Id
+label.monitoring.status.state = Estado
+label.monitoring.status.message= Mensaje
+label.monitoring.status.description=Descripci\u00f3n
+label.monitoring.status.action= Acci\u00f3n
+action.monitoring.edit=Modificar
+label.monitoring.probe.label = Etiquetado
+label.monitoring.probe.id = Id
+label.monitoring.probe.success = \u00e9xito
+label.monitoring.probe.status = Resultado
+label.monitoring.probe.history = Hist\u00f3rico
+label.monitoring.probe.count = Cuentas
+label.monitoring.probe.lastDuration = Tiempo
+label.monitoring.probe.description = Descripci\u00f3n
+label.monitoring.probe.action=Acci\u00f3n
+label.monitoring.probe.lastRun = \u00faltima puesta en funcionamiento
+label.monitoring.probe.lastSuccess = con \u00e9xito
+label.monitoring.probe.lastFailure = \u00faltimo fallo
+label.monitoring.probe.countRun = ejecuciones totales
+label.monitoring.probe.countSuccess = ejecuciones con \u00e9xito
+label.monitoring.probe.countFailure = ejecuciones fallidas
+action.monitoring.passivate = Pasivo
+action.monitoring.activate = Activar
+action.monitoring.runProbe= Enviar prueba
+action.monitoring.save = Guardar
+action.monitoring.cancel = Cancelar
+label.monitoring.status.currentState = Estado
+label.monitoring.status.newState = Nuevo estado
+label.monitoring.status.lastUpdate = \u00faltima puesta al d\u00eda
+label.monitoring.status.login = \u00faltimo participante
+label.status.active = Activo
+label.status.passive = Pasivo
+label.monitoring.eventStats=Recopilar las estad\u00edsticas de Eventos Listeners.
+label.monitoring.events.synctracking.on=Continuar eventos sincronizados activos.
+label.monitoring.events.synctracking.off=Continuar eventos sincronizados desactivados.
+label.monitoring.events.asynctracking.on=Continuar eventos desincronizados activos.
+label.monitoring.events.asynctracking.off=Continuar eventos desincronizados desactivados.
+label.monitoring.events.synctracking.switch.off=Desactivar
+label.monitoring.events.synctracking.switch.on=Activar
+label.monitoring.events.asynctracking.switch.off=Desactivar
+label.monitoring.events.asynctracking.switch.on=Activar
+label.monitoring.eventStats.syncStats=Estad\u00edsticas sobre la actividad de listeners sincronizados.
+label.monitoring.eventStats.asyncStats=Estad\u00edsticas sobre la actividad de listeners desincronizados.
+label.monitoring.eventStats.noStats=Ninguna estad\u00edstica disponible
+label.monitoring.eventStats.threads=Hilos activos
+label.monitoring.eventStats.queuedEvents=Eventos a la espera
+label.monitoring.eventStats.listenerId=Listener Id
+label.monitoring.eventStats.listenerClass=Clase Listener
+label.monitoring.eventStats.listenerCalls=N\u00famero de llamadas
+label.monitoring.eventStats.listenerTime=Tiempo total
+label.monitoring.eventStats.listenerPercent=%
+label.monitoring.events.refresh=Refrescar
+tab.sysinfo.usersActivity=Actividad de los usuarios (descargas) a trav\u00e9s del Centro de Actualizaciones.
+De la configurabilidad de productos Nuxeo.
+Recuperar la \u00faltima configuraci\u00f3n guardada en Studio.<br /><br />\
+La operaci\u00f3n de puesta al d\u00eda reemplazar\u00e1, sobre esta instancia de Nuxeo, el paquete ya instalado. La nueva versi\u00f3n tendr\u00e1 en cuenta la anterior configuraci\u00f3n generada por Studio<br>\
+La mayor\u00eda de las configuraciones realizadas en Studio no necesitan reiniciar el servidor, lo que permite comprobar inmediatamente los cambios realizados.<br />\
+Sin embargo, el modo de desarrollo debe estar activado con anterioridad.
+El servidor Connect no est\u00e1 disponible: la puesta al d\u00eda no est\u00e1 disponible.
+Los paquetes Studio desde el Centro de Administraci\u00f3n. Permite la actializaci\u00f3n de ciertas cach\u00e9s (templates, \ficheros de traducciones...) \u00fatiles para los desarrolladores, pero que no debe ser activado en un servidor en producci\u00f3n.
+Para que los cambios sean tenidos en cuenta completamente.
+No se puede cambiar en este servidor.
+Puede desplegar un paquete escrito (m\u00e9todo preconcedido para las instancias en producci\u00f3n).
+Que le permite personalizar la apariencia de su aplicaci\u00f3n modificando o creando temas.
+No utilice nunca el editor de temas para la gesti\u00f3n de CSS: No se recomienda personalizar \ un tema por defecto.
+Escr\u00edbanos a <a href="http://doc.nuxeo.com/x/AYSN" target="_blank">documentaci\u00f3n</a> para m\u00e1s informaci\u00f3n.
+En Nuxeo Connect: no podr\u00e1 obtener las \u00faltimas correcciones y guardar su aplicaci\u00f3n al d\u00eda.
+Conecte y registre su instancia para beneficiarse autom\u00e1ticamente del mantenimiento.

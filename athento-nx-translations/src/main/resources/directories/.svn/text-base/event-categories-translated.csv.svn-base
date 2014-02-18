@@ -1,0 +1,7 @@
+id,label,obsolete,ordering
+"eventDocumentCategory","Documento","0","0"
+"eventWorkflowCategory","Flujo de proceso","0","10"
+"NuxeoAuthentication","NuxeoAuthentication","0","20"
+"eventLifeCycleCategory","Ciclo de Vida","0","30"
+"relationNotificationCategory","Relaciones","0","40"
+"document_review_approbation","Revisión en serie (importa el orden)","0","50"

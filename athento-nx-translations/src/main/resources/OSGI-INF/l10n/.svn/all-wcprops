@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/yse/!svn/ver/54404/nuxeo/athento-nx-translations/trunk/src/main/resources/OSGI-INF/l10n
+END
+messages_es.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/yse/!svn/ver/54404/nuxeo/athento-nx-translations/trunk/src/main/resources/OSGI-INF/l10n/messages_es.properties
+END
+messages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/yse/!svn/ver/46287/nuxeo/athento-nx-translations/trunk/src/main/resources/OSGI-INF/l10n/messages_fr.properties
+END
+messages_es_AR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/yse/!svn/ver/50901/nuxeo/athento-nx-translations/trunk/src/main/resources/OSGI-INF/l10n/messages_es_AR.properties
+END
+messages_es_ES.properties
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/yse/!svn/ver/54404/nuxeo/athento-nx-translations/trunk/src/main/resources/OSGI-INF/l10n/messages_es_ES.properties
+END
+messages_en.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/yse/!svn/ver/46287/nuxeo/athento-nx-translations/trunk/src/main/resources/OSGI-INF/l10n/messages_en.properties
+END
+messages_pt_BR.properties
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/yse/!svn/ver/46287/nuxeo/athento-nx-translations/trunk/src/main/resources/OSGI-INF/l10n/messages_pt_BR.properties
+END
+messages_pt.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/yse/!svn/ver/46287/nuxeo/athento-nx-translations/trunk/src/main/resources/OSGI-INF/l10n/messages_pt.properties
+END
