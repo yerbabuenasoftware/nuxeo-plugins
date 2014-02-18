@@ -1,0 +1,4 @@
+nuxeo-plugins
+=============
+
+nuxeo-plugins
